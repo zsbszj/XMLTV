@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="VOOsport World 1">
+    <display-name lang="fr">VOOsport World 1</display-name>
+    <icon src="https://tv.cdnartwhere.eu/images/logos_chaines/413.png" />
+    <url>http://www.telecablesat.fr</url>
+  </channel>
+  <channel id="VOOsport World 2">
+    <display-name lang="fr">VOOsport World 2</display-name>
+    <icon src="https://tv.cdnartwhere.eu/images/logos_chaines/414.png" />
+    <url>http://www.telecablesat.fr</url>
+  </channel>
+  <channel id="VOOsport World 3">
+    <display-name lang="fr">VOOsport World 3</display-name>
+    <icon src="https://tv.cdnartwhere.eu/images/logos_chaines/472.png" />
+    <url>http://www.telecablesat.fr</url>
+  </channel>
+  <programme start="20211023110000 +0200" stop="20211023120000 +0200" channel="VOOsport World 1">
+    <title lang="fr">VOO SportClub</title>
+  </programme>
+  <programme start="20211023120000 +0200" stop="20211023122500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Europa League Highlights</title>
+  </programme>
+  <programme start="20211023122500 +0200" stop="20211023125500 +0200" channel="VOOsport World 1">
+    <title lang="fr">PL Club</title>
+  </programme>
+  <programme start="20211023125500 +0200" stop="20211023132500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Premier League Preview Show</title>
+  </programme>
+  <programme start="20211023132500 +0200" stop="20211023154500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League</title>
+  </programme>
+  <programme start="20211023154500 +0200" stop="20211023175500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League</title>
+  </programme>
+  <programme start="20211023175500 +0200" stop="20211023182500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Le monde de la Premier League</title>
+  </programme>
+  <programme start="20211023182500 +0200" stop="20211023202500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League</title>
+  </programme>
+  <programme start="20211023202500 +0200" stop="20211023205000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Voitures de légende</title>
+  </programme>
+  <programme start="20211023205000 +0200" stop="20211023211500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Auto : Mobil 1 the Grid</title>
+  </programme>
+  <programme start="20211023211500 +0200" stop="20211023231500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League</title>
+  </programme>
+  <programme start="20211023231500 +0200" stop="20211024034500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Golf : Open de Majorque</title>
+  </programme>
+  <programme start="20211024034500 +0200" stop="20211024053500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Pause</title>
+  </programme>
+  <programme start="20211024053500 +0200" stop="20211024094000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Golf : Open de Chiba</title>
+  </programme>
+  <programme start="20211024094000 +0200" stop="20211024115500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League</title>
+  </programme>
+  <programme start="20211024115500 +0200" stop="20211024135500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Basket : BNXT League</title>
+  </programme>
+  <programme start="20211024135500 +0200" stop="20211024142500 +0200" channel="VOOsport World 1">
+    <title lang="fr">PL Club</title>
+  </programme>
+  <programme start="20211024142500 +0200" stop="20211024145500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Premier League Preview Show</title>
+  </programme>
+  <programme start="20211024145500 +0200" stop="20211024172000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League</title>
+  </programme>
+  <programme start="20211024172000 +0200" stop="20211024192500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League</title>
+  </programme>
+  <programme start="20211024192500 +0200" stop="20211024195000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Le monde de la Premier League</title>
+  </programme>
+  <programme start="20211024195000 +0200" stop="20211024201500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Europa League Highlights</title>
+  </programme>
+  <programme start="20211024201500 +0200" stop="20211024210500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Voile : Sail GP</title>
+  </programme>
+  <programme start="20211024210500 +0200" stop="20211025020500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Golf : Open de Majorque</title>
+  </programme>
+  <programme start="20211025020500 +0200" stop="20211025130000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Pause</title>
+  </programme>
+  <programme start="20211025130000 +0200" stop="20211025150000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League</title>
+  </programme>
+  <programme start="20211025150000 +0200" stop="20211025152500 +0200" channel="VOOsport World 1">
+    <title lang="fr">ATP Magazine</title>
+  </programme>
+  <programme start="20211025152500 +0200" stop="20211025180000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Tennis : Tournoi ATP de Moscou</title>
+  </programme>
+  <programme start="20211025180000 +0200" stop="20211025194500 +0200" channel="VOOsport World 1">
+    <title lang="fr">L'Europe des Onze</title>
+  </programme>
+  <programme start="20211025194500 +0200" stop="20211025204000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Le monde de la Premier League</title>
+  </programme>
+  <programme start="20211025204000 +0200" stop="20211025222500 +0200" channel="VOOsport World 1">
+    <title lang="fr">L'Europe des Onze</title>
+  </programme>
+  <programme start="20211025222500 +0200" stop="20211026002500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Basket : BNXT League</title>
+  </programme>
+  <programme start="20211026002500 +0200" stop="20211026011200 +0200" channel="VOOsport World 1">
+    <title lang="fr">Voile : Sail GP</title>
+  </programme>
+  <programme start="20211026011200 +0200" stop="20211026132000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Pause</title>
+  </programme>
+  <programme start="20211026132000 +0200" stop="20211026152500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League</title>
+  </programme>
+  <programme start="20211026152500 +0200" stop="20211026171000 +0200" channel="VOOsport World 1">
+    <title lang="fr">L'Europe des Onze</title>
+  </programme>
+  <programme start="20211026171000 +0200" stop="20211026184000 +0200" channel="VOOsport World 1">
+    <title lang="fr">PGA Tour Champions : Open de Richmond</title>
+  </programme>
+  <programme start="20211026184000 +0200" stop="20211026204500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Basket : BNXT League</title>
+  </programme>
+  <programme start="20211026204500 +0200" stop="20211026213500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League</title>
+  </programme>
+  <programme start="20211026213500 +0200" stop="20211027005000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Golf : Open de Chiba</title>
+  </programme>
+  <programme start="20211027005000 +0200" stop="20211027011800 +0200" channel="VOOsport World 1">
+    <title lang="fr">L'Oeil des pros</title>
+  </programme>
+  <programme start="20211027011800 +0200" stop="20211027135000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Pause</title>
+  </programme>
+  <programme start="20211027135000 +0200" stop="20211027153500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League</title>
+  </programme>
+  <programme start="20211027153500 +0200" stop="20211027173500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Championnat des Pays-Bas</title>
+  </programme>
+  <programme start="20211027173500 +0200" stop="20211027183000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League</title>
+  </programme>
+  <programme start="20211027183000 +0200" stop="20211027201500 +0200" channel="VOOsport World 1">
+    <title lang="fr">L'Europe des Onze</title>
+  </programme>
+  <programme start="20211027201500 +0200" stop="20211027204500 +0200" channel="VOOsport World 1">
+    <title lang="fr">ATP Magazine</title>
+  </programme>
+  <programme start="20211027204500 +0200" stop="20211027225000 +0200" channel="VOOsport World 1">
+    <title lang="fr">VOOsport en résumés</title>
+  </programme>
+  <programme start="20211027225000 +0200" stop="20211027235000 +0200" channel="VOOsport World 1">
+    <title lang="fr">VOO SportClub</title>
+  </programme>
+  <programme start="20211027235000 +0200" stop="20211028020000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Basket-ball : Euroligue masculine</title>
+  </programme>
+  <programme start="20211028020000 +0200" stop="20211028140500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Pause</title>
+  </programme>
+  <programme start="20211028140500 +0200" stop="20211028160500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Basket : BNXT League</title>
+  </programme>
+  <programme start="20211028160500 +0200" stop="20211028163000 +0200" channel="VOOsport World 1">
+    <title lang="fr">ATP Magazine</title>
+  </programme>
+  <programme start="20211028163000 +0200" stop="20211028184000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Basket-ball : Euroligue masculine</title>
+  </programme>
+  <programme start="20211028184000 +0200" stop="20211028194500 +0200" channel="VOOsport World 1">
+    <title lang="fr">VOO SportClub</title>
+  </programme>
+  <programme start="20211028194500 +0200" stop="20211028215500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Basket-ball : Euroligue masculine</title>
+  </programme>
+  <programme start="20211028215500 +0200" stop="20211028223500 +0200" channel="VOOsport World 1">
+    <title lang="fr">PL Club</title>
+  </programme>
+  <programme start="20211028223500 +0200" stop="20211028232500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League</title>
+  </programme>
+  <programme start="20211028232500 +0200" stop="20211029013000 +0200" channel="VOOsport World 1">
+    <title lang="fr">VOOsport en résumés</title>
+  </programme>
+  <programme start="20211029013000 +0200" stop="20211029135500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Pause</title>
+  </programme>
+  <programme start="20211029135500 +0200" stop="20211029144000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Voile : Sail GP</title>
+  </programme>
+  <programme start="20211029144000 +0200" stop="20211029165000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Basket-ball : Euroligue masculine</title>
+  </programme>
+  <programme start="20211029165000 +0200" stop="20211029175500 +0200" channel="VOOsport World 1">
+    <title lang="fr">VOO SportClub</title>
+  </programme>
+  <programme start="20211029175500 +0200" stop="20211029184500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League</title>
+  </programme>
+  <programme start="20211029184500 +0200" stop="20211029191500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Le monde de la Premier League</title>
+  </programme>
+  <programme start="20211029191500 +0200" stop="20211029212500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Basket-ball : Euroligue masculine</title>
+  </programme>
+  <programme start="20211029212500 +0200" stop="20211029215000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Premier League Preview Show</title>
+  </programme>
+  <programme start="20211029215000 +0200" stop="20211029222000 +0200" channel="VOOsport World 1">
+    <title lang="fr">ATP Magazine</title>
+  </programme>
+  <programme start="20211029222000 +0200" stop="20211030002500 +0200" channel="VOOsport World 1">
+    <title lang="fr">VOOsport en résumés</title>
+  </programme>
+  <programme start="20211030002500 +0200" stop="20211030010500 +0200" channel="VOOsport World 1">
+    <title lang="fr">PL Club</title>
+  </programme>
+  <programme start="20211023111500 +0200" stop="20211023132000 +0200" channel="VOOsport World 2">
+    <title lang="fr">VOOsport World en résumés</title>
+  </programme>
+  <programme start="20211023132000 +0200" stop="20211023153000 +0200" channel="VOOsport World 2">
+    <title lang="fr">Basket-ball : Euroligue masculine</title>
+  </programme>
+  <programme start="20211023153000 +0200" stop="20211023160000 +0200" channel="VOOsport World 2">
+    <title lang="fr">ATP Magazine</title>
+  </programme>
+  <programme start="20211023160000 +0200" stop="20211023180000 +0200" channel="VOOsport World 2">
+    <title lang="fr">Tennis : Tournoi ATP de Moscou</title>
+  </programme>
+  <programme start="20211023180000 +0200" stop="20211023200000 +0200" channel="VOOsport World 2">
+    <title lang="fr">Tennis : Tournoi ATP de Moscou</title>
+  </programme>
+  <programme start="20211023200000 +0200" stop="20211023231500 +0200" channel="VOOsport World 2">
+    <title lang="fr">Golf : Open de Chiba</title>
+  </programme>
+  <programme start="20211023231500 +0200" stop="20211024102500 +0200" channel="VOOsport World 2">
+    <title lang="fr">Pause</title>
+  </programme>
+  <programme start="20211024102500 +0200" stop="20211024105000 +0200" channel="VOOsport World 2">
+    <title lang="fr">ATP Magazine</title>
+  </programme>
+  <programme start="20211024105000 +0200" stop="20211024125000 +0200" channel="VOOsport World 2">
+    <title lang="fr">Tennis : Tournoi ATP de Moscou</title>
+  </programme>
+  <programme start="20211024125000 +0200" stop="20211024145500 +0200" channel="VOOsport World 2">
+    <title lang="fr">Tennis : Tournoi ATP de Moscou</title>
+  </programme>
+  <programme start="20211024145500 +0200" stop="20211024164000 +0200" channel="VOOsport World 2">
+    <title lang="fr">Football : Premier League</title>
+  </programme>
+  <programme start="20211024164000 +0200" stop="20211024184000 +0200" channel="VOOsport World 2">
+    <title lang="fr">Football : Championnat des Pays-Bas</title>
+  </programme>
+  <programme start="20211024184000 +0200" stop="20211024211000 +0200" channel="VOOsport World 2">
+    <title lang="fr">Tennis : Tournoi ATP de Moscou</title>
+  </programme>
+  <programme start="20211024211000 +0200" stop="20211024231000 +0200" channel="VOOsport World 2">
+    <title lang="fr">Football : Premier League</title>
+  </programme>
+  <programme start="20211024231000 +0200" stop="20211025131000 +0200" channel="VOOsport World 2">
+    <title lang="fr">Pause</title>
+  </programme>
+  <programme start="20211025131000 +0200" stop="20211025162500 +0200" channel="VOOsport World 2">
+    <title lang="fr">Golf : Open de Chiba</title>
+  </programme>
+  <programme start="20211025162500 +0200" stop="20211025213000 +0200" channel="VOOsport World 2">
+    <title lang="fr">Golf : Open de Majorque</title>
+  </programme>
+  <programme start="20211025213000 +0200" stop="20211025230000 +0200" channel="VOOsport World 2">
+    <title lang="fr">PGA Tour Champions : Open de Richmond</title>
+  </programme>
+  <programme start="20211025230000 +0200" stop="20211026131500 +0200" channel="VOOsport World 2">
+    <title lang="fr">Pause</title>
+  </programme>
+  <programme start="20211026131500 +0200" stop="20211026151500 +0200" channel="VOOsport World 2">
+    <title lang="fr">Tennis : Tournoi ATP de Moscou</title>
+  </programme>
+  <programme start="20211026151500 +0200" stop="20211026171500 +0200" channel="VOOsport World 2">
+    <title lang="fr">Tennis : Tournoi ATP de Moscou</title>
+  </programme>
+  <programme start="20211026171500 +0200" stop="20211026195000 +0200" channel="VOOsport World 2">
+    <title lang="fr">Tennis : Tournoi ATP de Moscou</title>
+  </programme>
+  <programme start="20211026195000 +0200" stop="20211026220000 +0200" channel="VOOsport World 2">
+    <title lang="fr">Basket-ball : Euroligue masculine</title>
+  </programme>
+  <programme start="20211026220000 +0200" stop="20211026222500 +0200" channel="VOOsport World 2">
+    <title lang="fr">Ultra Trail World Tour</title>
+  </programme>
+  <programme start="20211026222500 +0200" stop="20211026224900 +0200" channel="VOOsport World 2">
+    <title lang="fr">Ultra Trail World Tour</title>
+  </programme>
+  <programme start="20211026224900 +0200" stop="20211027150000 +0200" channel="VOOsport World 2">
+    <title lang="fr">Pause</title>
+  </programme>
+  <programme start="20211027150000 +0200" stop="20211027163000 +0200" channel="VOOsport World 2">
+    <title lang="fr">PGA Tour Champions : Open de Richmond</title>
+  </programme>
+  <programme start="20211027163000 +0200" stop="20211027184500 +0200" channel="VOOsport World 2">
+    <title lang="fr">Basket-ball : Euroligue masculine</title>
+  </programme>
+  <programme start="20211027184500 +0200" stop="20211027205500 +0200" channel="VOOsport World 2">
+    <title lang="fr">Basket-ball : Euroligue masculine</title>
+  </programme>
+  <programme start="20211027205500 +0200" stop="20211027215500 +0200" channel="VOOsport World 2">
+    <title lang="fr">Basket : BNXT League</title>
+  </programme>
+  <programme start="20211027215500 +0200" stop="20211028141000 +0200" channel="VOOsport World 2">
+    <title lang="fr">Pause</title>
+  </programme>
+  <programme start="20211028141000 +0200" stop="20211028155500 +0200" channel="VOOsport World 2">
+    <title lang="fr">L'Europe des Onze</title>
+  </programme>
+  <programme start="20211028155500 +0200" stop="20211028180000 +0200" channel="VOOsport World 2">
+    <title lang="fr">VOOsport en résumés</title>
+  </programme>
+  <programme start="20211028180000 +0200" stop="20211028193500 +0200" channel="VOOsport World 2">
+    <title lang="fr">PGA Tour Champions : Open de Richmond</title>
+  </programme>
+  <programme start="20211028193500 +0200" stop="20211028223500 +0200" channel="VOOsport World 2">
+    <title lang="fr">Golf : Championnat des Bermudes</title>
+  </programme>
+  <programme start="20211028223500 +0200" stop="20211028230300 +0200" channel="VOOsport World 2">
+    <title lang="fr">L'Oeil des pros</title>
+  </programme>
+  <programme start="20211028230300 +0200" stop="20211029140000 +0200" channel="VOOsport World 2">
+    <title lang="fr">Pause</title>
+  </programme>
+  <programme start="20211029140000 +0200" stop="20211029160500 +0200" channel="VOOsport World 2">
+    <title lang="fr">VOOsport en résumés</title>
+  </programme>
+  <programme start="20211029160500 +0200" stop="20211029163000 +0200" channel="VOOsport World 2">
+    <title lang="fr">L'Oeil des pros</title>
+  </programme>
+  <programme start="20211029163000 +0200" stop="20211029193500 +0200" channel="VOOsport World 2">
+    <title lang="fr">Golf : Championnat des Bermudes</title>
+  </programme>
+  <programme start="20211029193500 +0200" stop="20211029223500 +0200" channel="VOOsport World 2">
+    <title lang="fr">Golf : Championnat des Bermudes</title>
+  </programme>
+  <programme start="20211029223500 +0200" stop="20211030000500 +0200" channel="VOOsport World 2">
+    <title lang="fr">PGA Tour Champions : Open de Richmond</title>
+  </programme>
+  <programme start="20211023080000 +0200" stop="20211023100000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211023100000 +0200" stop="20211023120000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211023120000 +0200" stop="20211023133500 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211023133500 +0200" stop="20211023180500 +0200" channel="VOOsport World 3">
+    <title lang="fr">Golf : Open de Majorque</title>
+  </programme>
+  <programme start="20211023180500 +0200" stop="20211023185500 +0200" channel="VOOsport World 3">
+    <title lang="fr">The Open, film officiel 2021</title>
+  </programme>
+  <programme start="20211023185500 +0200" stop="20211023192500 +0200" channel="VOOsport World 3">
+    <title lang="fr">L'Oeil des pros</title>
+  </programme>
+  <programme start="20211023192500 +0200" stop="20211023201500 +0200" channel="VOOsport World 3">
+    <title lang="fr">Voile : Sail GP</title>
+  </programme>
+  <programme start="20211023201500 +0200" stop="20211023220000 +0200" channel="VOOsport World 3">
+    <title lang="fr">Basket : BNXT League</title>
+  </programme>
+  <programme start="20211023220000 +0200" stop="20211024080000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211024080000 +0200" stop="20211024100000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211024100000 +0200" stop="20211024120000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211024120000 +0200" stop="20211024123500 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211024123500 +0200" stop="20211024173500 +0200" channel="VOOsport World 3">
+    <title lang="fr">Golf : Open de Majorque</title>
+  </programme>
+  <programme start="20211024173500 +0200" stop="20211024205000 +0200" channel="VOOsport World 3">
+    <title lang="fr">Golf : Open de Chiba</title>
+  </programme>
+  <programme start="20211024205000 +0200" stop="20211024220000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211024220000 +0200" stop="20211025080000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211025080000 +0200" stop="20211025100000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211025100000 +0200" stop="20211025120000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211025120000 +0200" stop="20211025140000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211025140000 +0200" stop="20211025180000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211025180000 +0200" stop="20211025200000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211025200000 +0200" stop="20211025220000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211025220000 +0200" stop="20211026080000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211026080000 +0200" stop="20211026100000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211026100000 +0200" stop="20211026120000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211026120000 +0200" stop="20211026140000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211026140000 +0200" stop="20211026180000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211026180000 +0200" stop="20211026200000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211026200000 +0200" stop="20211026220000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211026220000 +0200" stop="20211027080000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211027080000 +0200" stop="20211027100000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211027100000 +0200" stop="20211027120000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211027120000 +0200" stop="20211027140000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211027140000 +0200" stop="20211027180000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211027180000 +0200" stop="20211027200000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211027200000 +0200" stop="20211028080000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211028080000 +0200" stop="20211028100000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211028100000 +0200" stop="20211028120000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211028120000 +0200" stop="20211028140000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211028140000 +0200" stop="20211028180000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211028180000 +0200" stop="20211028200000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211028200000 +0200" stop="20211028220000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211028220000 +0200" stop="20211029080000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211029080000 +0200" stop="20211029100000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211029100000 +0200" stop="20211029120000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211029120000 +0200" stop="20211029140000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211029140000 +0200" stop="20211029180000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211029180000 +0200" stop="20211029200000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+  <programme start="20211029200000 +0200" stop="20211029220000 +0200" channel="VOOsport World 3">
+    <title lang="fr">A bientôt sur VOOsport</title>
+  </programme>
+</tv>
