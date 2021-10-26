@@ -7202,4 +7202,242 @@
   <programme start="20211031220000 +0800" stop="20211031223000 +0800" channel="zqpd">
     <title lang="zh">足球道</title>
   </programme>
+  <?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="b6d548b0">
+    <display-name lang="zh">澳门莲花</display-name>
+    <url>http://www.m.tvsou.com</url>
+  </channel>
+  <programme start="20211026022500 +0800" stop="20211026043800 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211026043800 +0800" stop="20211026060500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211026060500 +0800" stop="20211026073000 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211026073000 +0800" stop="20211026105200 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211026105200 +0800" stop="20211026130000 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211026130000 +0800" stop="20211026140000 +0800" channel="b6d548b0">
+    <title lang="zh">澳门开讲</title>
+  </programme>
+  <programme start="20211026140000 +0800" stop="20211026152600 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211026152600 +0800" stop="20211026171500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211026171500 +0800" stop="20211026190000 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211026190000 +0800" stop="20211026200000 +0800" channel="b6d548b0">
+    <title lang="zh">澳门开讲</title>
+  </programme>
+  <programme start="20211026200000 +0800" stop="20211026215500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211026215500 +0800" stop="20211026231900 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211026231900 +0800" stop="20211027022500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211027022500 +0800" stop="20211027043800 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211027043800 +0800" stop="20211027060500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211027060500 +0800" stop="20211027073000 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211027073000 +0800" stop="20211027105200 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211027105200 +0800" stop="20211027130000 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211027130000 +0800" stop="20211027140000 +0800" channel="b6d548b0">
+    <title lang="zh">澳门开讲</title>
+  </programme>
+  <programme start="20211027140000 +0800" stop="20211027152600 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211027152600 +0800" stop="20211027171500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211027171500 +0800" stop="20211027190000 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211027190000 +0800" stop="20211027200000 +0800" channel="b6d548b0">
+    <title lang="zh">澳门开讲</title>
+  </programme>
+  <programme start="20211027200000 +0800" stop="20211027215500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211027215500 +0800" stop="20211027231900 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211027231900 +0800" stop="20211028022500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211028022500 +0800" stop="20211028043800 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211028043800 +0800" stop="20211028060500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211028060500 +0800" stop="20211028073000 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211028073000 +0800" stop="20211028105200 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211028105200 +0800" stop="20211028130000 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211028130000 +0800" stop="20211028140000 +0800" channel="b6d548b0">
+    <title lang="zh">澳门开讲</title>
+  </programme>
+  <programme start="20211028140000 +0800" stop="20211028152600 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211028152600 +0800" stop="20211028171500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211028171500 +0800" stop="20211028190000 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211028190000 +0800" stop="20211028200000 +0800" channel="b6d548b0">
+    <title lang="zh">澳门开讲</title>
+  </programme>
+  <programme start="20211028200000 +0800" stop="20211028215500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211028215500 +0800" stop="20211028231900 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211028231900 +0800" stop="20211029022500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211029022500 +0800" stop="20211029043800 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211029043800 +0800" stop="20211029060500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211029060500 +0800" stop="20211029073000 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211029073000 +0800" stop="20211029105200 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211029105200 +0800" stop="20211029130000 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211029130000 +0800" stop="20211029140000 +0800" channel="b6d548b0">
+    <title lang="zh">澳门开讲</title>
+  </programme>
+  <programme start="20211029140000 +0800" stop="20211029152600 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211029152600 +0800" stop="20211029171500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211029171500 +0800" stop="20211029190000 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211029190000 +0800" stop="20211029200000 +0800" channel="b6d548b0">
+    <title lang="zh">澳门开讲</title>
+  </programme>
+  <programme start="20211029200000 +0800" stop="20211029215500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211029215500 +0800" stop="20211029231900 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211029231900 +0800" stop="20211030022500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211030022500 +0800" stop="20211030043800 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211030043800 +0800" stop="20211030060500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211030060500 +0800" stop="20211030073000 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211030073000 +0800" stop="20211030105200 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211030105200 +0800" stop="20211030130000 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211030130000 +0800" stop="20211030140000 +0800" channel="b6d548b0">
+    <title lang="zh">澳门开讲</title>
+  </programme>
+  <programme start="20211030140000 +0800" stop="20211030152600 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211030152600 +0800" stop="20211030171500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211030171500 +0800" stop="20211030190000 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211030190000 +0800" stop="20211030200000 +0800" channel="b6d548b0">
+    <title lang="zh">澳门开讲</title>
+  </programme>
+  <programme start="20211030200000 +0800" stop="20211030215500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211030215500 +0800" stop="20211030231900 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211030231900 +0800" stop="20211031022500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211031022500 +0800" stop="20211031043800 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211031043800 +0800" stop="20211031060500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211031060500 +0800" stop="20211031073000 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211031073000 +0800" stop="20211031105200 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211031105200 +0800" stop="20211031130000 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211031130000 +0800" stop="20211031140000 +0800" channel="b6d548b0">
+    <title lang="zh">澳门开讲</title>
+  </programme>
+  <programme start="20211031140000 +0800" stop="20211031152600 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211031152600 +0800" stop="20211031171500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211031171500 +0800" stop="20211031190000 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211031190000 +0800" stop="20211031200000 +0800" channel="b6d548b0">
+    <title lang="zh">澳门开讲</title>
+  </programme>
+  <programme start="20211031200000 +0800" stop="20211031215500 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+  <programme start="20211031215500 +0800" stop="20211031231900 +0800" channel="b6d548b0">
+    <title lang="zh">经典影院</title>
+  </programme>
+</tv>
 </tv>
