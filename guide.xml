@@ -124,426 +124,6 @@
     <display-name lang="zh">KIX (304)</display-name>
     <url>http://www.promo.mytvsuper.com.E</url>
   </channel>
-  <programme start="20211101060000 +0800" stop="20211101074000 +0800" channel="tc#CKIX">
-    <title lang="tc">天下無敵掌門人</title>
-  </programme>
-  <programme start="20211101074000 +0800" stop="20211101081000 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #401</title>
-  </programme>
-  <programme start="20211101081000 +0800" stop="20211101094500 +0800" channel="tc#CKIX">
-    <title lang="tc">無限挑戰 #373</title>
-  </programme>
-  <programme start="20211101094500 +0800" stop="20211101105500 +0800" channel="tc#CKIX">
-    <title lang="tc">Dunia: Into A New World #1</title>
-  </programme>
-  <programme start="20211101105500 +0800" stop="20211101124500 +0800" channel="tc#CKIX">
-    <title lang="tc">密戰</title>
-  </programme>
-  <programme start="20211101124500 +0800" stop="20211101140000 +0800" channel="tc#CKIX">
-    <title lang="tc">10 Fight 10 #1</title>
-  </programme>
-  <programme start="20211101140000 +0800" stop="20211101143000 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #401</title>
-  </programme>
-  <programme start="20211101143000 +0800" stop="20211101161000 +0800" channel="tc#CKIX">
-    <title lang="tc">功夫廚神</title>
-  </programme>
-  <programme start="20211101161000 +0800" stop="20211101173500 +0800" channel="tc#CKIX">
-    <title lang="tc">霍元甲之精武天下</title>
-  </programme>
-  <programme start="20211101173500 +0800" stop="20211101184500 +0800" channel="tc#CKIX">
-    <title lang="tc">Dunia: Into A New World #1</title>
-  </programme>
-  <programme start="20211101184500 +0800" stop="20211101203000 +0800" channel="tc#CKIX">
-    <title lang="tc">雄霸四海</title>
-  </programme>
-  <programme start="20211101203000 +0800" stop="20211101210000 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #401</title>
-  </programme>
-  <programme start="20211101210000 +0800" stop="20211101220000 +0800" channel="tc#CKIX">
-    <title lang="tc">Lucha Underground S4 #18</title>
-  </programme>
-  <programme start="20211101220000 +0800" stop="20211101233500 +0800" channel="tc#CKIX">
-    <title lang="tc">崑崙決 #18</title>
-  </programme>
-  <programme start="20211101233500 +0800" stop="20211102005500 +0800" channel="tc#CKIX">
-    <title lang="tc">新封神薑子牙</title>
-  </programme>
-  <programme start="20211102005500 +0800" stop="20211102022500 +0800" channel="tc#CKIX">
-    <title lang="tc">Australian Ninja Warrior S2 #1</title>
-  </programme>
-  <programme start="20211102022500 +0800" stop="20211102025500 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #401</title>
-  </programme>
-  <programme start="20211102025500 +0800" stop="20211102035000 +0800" channel="tc#CKIX">
-    <title lang="tc">Lucha Underground S4 #18</title>
-  </programme>
-  <programme start="20211102035000 +0800" stop="20211102053000 +0800" channel="tc#CKIX">
-    <title lang="tc">鐵馬騮II之街頭殺手</title>
-  </programme>
-  <programme start="20211102053000 +0800" stop="20211102060000 +0800" channel="tc#CKIX">
-    <title lang="tc">Dunia: Into A New World #1</title>
-  </programme>
-  <programme start="20211102060000 +0800" stop="20211102064000 +0800" channel="tc#CKIX">
-    <title lang="tc">Dunia: Into A New World #1</title>
-  </programme>
-  <programme start="20211102064000 +0800" stop="20211102073500 +0800" channel="tc#CKIX">
-    <title lang="tc">Lucha Underground S4 #18</title>
-  </programme>
-  <programme start="20211102073500 +0800" stop="20211102080500 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #402</title>
-  </programme>
-  <programme start="20211102080500 +0800" stop="20211102093500 +0800" channel="tc#CKIX">
-    <title lang="tc">Sindiket</title>
-  </programme>
-  <programme start="20211102093500 +0800" stop="20211102110500 +0800" channel="tc#CKIX">
-    <title lang="tc">無限挑戰 #375</title>
-  </programme>
-  <programme start="20211102110500 +0800" stop="20211102122000 +0800" channel="tc#CKIX">
-    <title lang="tc">Dunia: Into A New World #2</title>
-  </programme>
-  <programme start="20211102122000 +0800" stop="20211102132500 +0800" channel="tc#CKIX">
-    <title lang="tc">10 Fight 10 #2</title>
-  </programme>
-  <programme start="20211102132500 +0800" stop="20211102135500 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #402</title>
-  </programme>
-  <programme start="20211102135500 +0800" stop="20211102153500 +0800" channel="tc#CKIX">
-    <title lang="tc">蘇乞兒</title>
-  </programme>
-  <programme start="20211102153500 +0800" stop="20211102160500 +0800" channel="tc#CKIX">
-    <title lang="tc">Travel Man: 48 hours in... - S06 #1</title>
-  </programme>
-  <programme start="20211102160500 +0800" stop="20211102170500 +0800" channel="tc#CKIX">
-    <title lang="tc">G Wars #2</title>
-  </programme>
-  <programme start="20211102170500 +0800" stop="20211102182000 +0800" channel="tc#CKIX">
-    <title lang="tc">Dunia: Into A New World #2</title>
-  </programme>
-  <programme start="20211102182000 +0800" stop="20211102185000 +0800" channel="tc#CKIX">
-    <title lang="tc">Travel Man: 48 hours in... - S06 #2</title>
-  </programme>
-  <programme start="20211102185000 +0800" stop="20211102203000 +0800" channel="tc#CKIX">
-    <title lang="tc">中華丈夫</title>
-  </programme>
-  <programme start="20211102203000 +0800" stop="20211102210000 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #402</title>
-  </programme>
-  <programme start="20211102210000 +0800" stop="20211102220000 +0800" channel="tc#CKIX">
-    <title lang="tc">Ultimate BROcation, The #1</title>
-  </programme>
-  <programme start="20211102220000 +0800" stop="20211102231500 +0800" channel="tc#CKIX">
-    <title lang="tc">Run Puppy Run #3</title>
-  </programme>
-  <programme start="20211102231500 +0800" stop="20211103003000 +0800" channel="tc#CKIX">
-    <title lang="tc">Run Puppy Run #4</title>
-  </programme>
-  <programme start="20211103003000 +0800" stop="20211103021000 +0800" channel="tc#CKIX">
-    <title lang="tc">殲毒先鋒</title>
-  </programme>
-  <programme start="20211103021000 +0800" stop="20211103024000 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #402</title>
-  </programme>
-  <programme start="20211103024000 +0800" stop="20211103034000 +0800" channel="tc#CKIX">
-    <title lang="tc">2020 Idol Star Athletics Championships #7</title>
-  </programme>
-  <programme start="20211103034000 +0800" stop="20211103051500 +0800" channel="tc#CKIX">
-    <title lang="tc">蜀山降魔傳</title>
-  </programme>
-  <programme start="20211103051500 +0800" stop="20211103060000 +0800" channel="tc#CKIX">
-    <title lang="tc">Dunia: Into A New World #2</title>
-  </programme>
-  <programme start="20211103060000 +0800" stop="20211103063000 +0800" channel="tc#CKIX">
-    <title lang="tc">Dunia: Into A New World #2</title>
-  </programme>
-  <programme start="20211103063000 +0800" stop="20211103081000 +0800" channel="tc#CKIX">
-    <title lang="tc">亞洲警察之高壓線</title>
-  </programme>
-  <programme start="20211103081000 +0800" stop="20211103084000 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #403</title>
-  </programme>
-  <programme start="20211103084000 +0800" stop="20211103101000 +0800" channel="tc#CKIX">
-    <title lang="tc">無限挑戰 #376</title>
-  </programme>
-  <programme start="20211103101000 +0800" stop="20211103112000 +0800" channel="tc#CKIX">
-    <title lang="tc">Dunia: Into A New World #3</title>
-  </programme>
-  <programme start="20211103112000 +0800" stop="20211103130500 +0800" channel="tc#CKIX">
-    <title lang="tc">功夫無敵</title>
-  </programme>
-  <programme start="20211103130500 +0800" stop="20211103142000 +0800" channel="tc#CKIX">
-    <title lang="tc">10 Fight 10 #3</title>
-  </programme>
-  <programme start="20211103142000 +0800" stop="20211103145000 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #403</title>
-  </programme>
-  <programme start="20211103145000 +0800" stop="20211103160500 +0800" channel="tc#CKIX">
-    <title lang="tc">Run Puppy Run #3</title>
-  </programme>
-  <programme start="20211103160500 +0800" stop="20211103180500 +0800" channel="tc#CKIX">
-    <title lang="tc">楊門女將之軍令如山</title>
-  </programme>
-  <programme start="20211103180500 +0800" stop="20211103191500 +0800" channel="tc#CKIX">
-    <title lang="tc">Dunia: Into A New World #3</title>
-  </programme>
-  <programme start="20211103191500 +0800" stop="20211103203000 +0800" channel="tc#CKIX">
-    <title lang="tc">Run Puppy Run #4</title>
-  </programme>
-  <programme start="20211103203000 +0800" stop="20211103210000 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #403</title>
-  </programme>
-  <programme start="20211103210000 +0800" stop="20211103213000 +0800" channel="tc#CKIX">
-    <title lang="tc">Extreme Ends #1</title>
-  </programme>
-  <programme start="20211103213000 +0800" stop="20211103220000 +0800" channel="tc#CKIX">
-    <title lang="tc">Extreme Ends #2</title>
-  </programme>
-  <programme start="20211103220000 +0800" stop="20211103232500 +0800" channel="tc#CKIX">
-    <title lang="tc">Yacht Expedition: The Beginning #2</title>
-  </programme>
-  <programme start="20211103232500 +0800" stop="20211104005000 +0800" channel="tc#CKIX">
-    <title lang="tc">刺殺風雲</title>
-  </programme>
-  <programme start="20211104005000 +0800" stop="20211104023500 +0800" channel="tc#CKIX">
-    <title lang="tc">Road FC 2018 #6</title>
-  </programme>
-  <programme start="20211104023500 +0800" stop="20211104030500 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #403</title>
-  </programme>
-  <programme start="20211104030500 +0800" stop="20211104040000 +0800" channel="tc#CKIX">
-    <title lang="tc">2020 Idol Star Athletics Championships #8</title>
-  </programme>
-  <programme start="20211104040000 +0800" stop="20211104054500 +0800" channel="tc#CKIX">
-    <title lang="tc">火燒島</title>
-  </programme>
-  <programme start="20211104054500 +0800" stop="20211104060000 +0800" channel="tc#CKIX">
-    <title lang="tc">Dunia: Into A New World #3</title>
-  </programme>
-  <programme start="20211104060000 +0800" stop="20211104065500 +0800" channel="tc#CKIX">
-    <title lang="tc">Dunia: Into A New World #3</title>
-  </programme>
-  <programme start="20211104065500 +0800" stop="20211104081500 +0800" channel="tc#CKIX">
-    <title lang="tc">鬥戰勝佛 - 大聖之淚</title>
-  </programme>
-  <programme start="20211104081500 +0800" stop="20211104084500 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #404</title>
-  </programme>
-  <programme start="20211104084500 +0800" stop="20211104103500 +0800" channel="tc#CKIX">
-    <title lang="tc">鼠膽龍威</title>
-  </programme>
-  <programme start="20211104103500 +0800" stop="20211104115000 +0800" channel="tc#CKIX">
-    <title lang="tc">Dunia: Into A New World #4</title>
-  </programme>
-  <programme start="20211104115000 +0800" stop="20211104131000 +0800" channel="tc#CKIX">
-    <title lang="tc">10 Fight 10 #4</title>
-  </programme>
-  <programme start="20211104131000 +0800" stop="20211104134000 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #404</title>
-  </programme>
-  <programme start="20211104134000 +0800" stop="20211104143500 +0800" channel="tc#CKIX">
-    <title lang="tc">G Wars #3</title>
-  </programme>
-  <programme start="20211104143500 +0800" stop="20211104160000 +0800" channel="tc#CKIX">
-    <title lang="tc">Yacht Expedition: The Beginning #2</title>
-  </programme>
-  <programme start="20211104160000 +0800" stop="20211104173000 +0800" channel="tc#CKIX">
-    <title lang="tc">一品爵爺</title>
-  </programme>
-  <programme start="20211104173000 +0800" stop="20211104184500 +0800" channel="tc#CKIX">
-    <title lang="tc">Dunia: Into A New World #4</title>
-  </programme>
-  <programme start="20211104184500 +0800" stop="20211104203000 +0800" channel="tc#CKIX">
-    <title lang="tc">龍騰虎躍</title>
-  </programme>
-  <programme start="20211104203000 +0800" stop="20211104210000 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #404</title>
-  </programme>
-  <programme start="20211104210000 +0800" stop="20211104213000 +0800" channel="tc#CKIX">
-    <title lang="tc">Extreme Ends #3</title>
-  </programme>
-  <programme start="20211104213000 +0800" stop="20211104220000 +0800" channel="tc#CKIX">
-    <title lang="tc">Extreme Ends #4</title>
-  </programme>
-  <programme start="20211104220000 +0800" stop="20211104232500 +0800" channel="tc#CKIX">
-    <title lang="tc">Hangout with Yoo #86</title>
-  </programme>
-  <programme start="20211104232500 +0800" stop="20211105010000 +0800" channel="tc#CKIX">
-    <title lang="tc">齊天大聖之大鬧龍宮</title>
-  </programme>
-  <programme start="20211105010000 +0800" stop="20211105030500 +0800" channel="tc#CKIX">
-    <title lang="tc">Road FC 2018 #7</title>
-  </programme>
-  <programme start="20211105030500 +0800" stop="20211105033500 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #404</title>
-  </programme>
-  <programme start="20211105033500 +0800" stop="20211105044000 +0800" channel="tc#CKIX">
-    <title lang="tc">2020 Idol Star Athletics Championships #9</title>
-  </programme>
-  <programme start="20211105044000 +0800" stop="20211105055500 +0800" channel="tc#CKIX">
-    <title lang="tc">Dunia: Into A New World #4</title>
-  </programme>
-  <programme start="20211105055500 +0800" stop="20211105060000 +0800" channel="tc#CKIX">
-    <title lang="tc">Australian Ninja Warrior S2 #2</title>
-  </programme>
-  <programme start="20211105060000 +0800" stop="20211105072500 +0800" channel="tc#CKIX">
-    <title lang="tc">Australian Ninja Warrior S2 #2</title>
-  </programme>
-  <programme start="20211105072500 +0800" stop="20211105075500 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #405</title>
-  </programme>
-  <programme start="20211105075500 +0800" stop="20211105085000 +0800" channel="tc#CKIX">
-    <title lang="tc">Fifth Gear S27 #1</title>
-  </programme>
-  <programme start="20211105085000 +0800" stop="20211105100500 +0800" channel="tc#CKIX">
-    <title lang="tc">Dunia: Into A New World #5</title>
-  </programme>
-  <programme start="20211105100500 +0800" stop="20211105114000 +0800" channel="tc#CKIX">
-    <title lang="tc">鍾馗誅妖傳</title>
-  </programme>
-  <programme start="20211105114000 +0800" stop="20211105125500 +0800" channel="tc#CKIX">
-    <title lang="tc">10 Fight 10 #5</title>
-  </programme>
-  <programme start="20211105125500 +0800" stop="20211105132500 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #405</title>
-  </programme>
-  <programme start="20211105132500 +0800" stop="20211105150000 +0800" channel="tc#CKIX">
-    <title lang="tc">無限挑戰 #373</title>
-  </programme>
-  <programme start="20211105150000 +0800" stop="20211105165000 +0800" channel="tc#CKIX">
-    <title lang="tc">聊齋之倩女幽魂</title>
-  </programme>
-  <programme start="20211105165000 +0800" stop="20211105174500 +0800" channel="tc#CKIX">
-    <title lang="tc">Fifth Gear S27 #2</title>
-  </programme>
-  <programme start="20211105174500 +0800" stop="20211105190000 +0800" channel="tc#CKIX">
-    <title lang="tc">Dunia: Into A New World #5</title>
-  </programme>
-  <programme start="20211105190000 +0800" stop="20211105203000 +0800" channel="tc#CKIX">
-    <title lang="tc">無限挑戰 #375</title>
-  </programme>
-  <programme start="20211105203000 +0800" stop="20211105210000 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #405</title>
-  </programme>
-  <programme start="20211105210000 +0800" stop="20211105222000 +0800" channel="tc#CKIX">
-    <title lang="tc">Urban Cops Season 1 #10</title>
-  </programme>
-  <programme start="20211105222000 +0800" stop="20211105235500 +0800" channel="tc#CKIX">
-    <title lang="tc">玩命</title>
-  </programme>
-  <programme start="20211105235500 +0800" stop="20211106012500 +0800" channel="tc#CKIX">
-    <title lang="tc">無限挑戰 #376</title>
-  </programme>
-  <programme start="20211106012500 +0800" stop="20211106015500 +0800" channel="tc#CKIX">
-    <title lang="tc">Car Crash TV #405</title>
-  </programme>
-  <programme start="20211106015500 +0800" stop="20211106034000 +0800" channel="tc#CKIX">
-    <title lang="tc">戰狼傳說</title>
-  </programme>
-  <programme start="20211106034000 +0800" stop="20211106050000 +0800" channel="tc#CKIX">
-    <title lang="tc">Urban Cops Season 1 #10</title>
-  </programme>
-  <programme start="20211106050000 +0800" stop="20211106060000 +0800" channel="tc#CKIX">
-    <title lang="tc">Dunia: Into A New World #5</title>
-  </programme>
-  <programme start="20211106060000 +0800" stop="20211106061500 +0800" channel="tc#CKIX">
-    <title lang="tc">Dunia: Into A New World #5</title>
-  </programme>
-  <programme start="20211106061500 +0800" stop="20211106073000 +0800" channel="tc#CKIX">
-    <title lang="tc">Run Puppy Run #3</title>
-  </programme>
-  <programme start="20211106073000 +0800" stop="20211106080000 +0800" channel="tc#CKIX">
-    <title lang="tc">Extreme Ends #1</title>
-  </programme>
-  <programme start="20211106080000 +0800" stop="20211106085500 +0800" channel="tc#CKIX">
-    <title lang="tc">Lucha Underground S4 #18</title>
-  </programme>
-  <programme start="20211106085500 +0800" stop="20211106105000 +0800" channel="tc#CKIX">
-    <title lang="tc">“大”人物</title>
-  </programme>
-  <programme start="20211106105000 +0800" stop="20211106121500 +0800" channel="tc#CKIX">
-    <title lang="tc">Australian Ninja Warrior S1 #1</title>
-  </programme>
-  <programme start="20211106121500 +0800" stop="20211106134000 +0800" channel="tc#CKIX">
-    <title lang="tc">Hangout with Yoo #86</title>
-  </programme>
-  <programme start="20211106134000 +0800" stop="20211106144500 +0800" channel="tc#CKIX">
-    <title lang="tc">Two Cops #1</title>
-  </programme>
-  <programme start="20211106144500 +0800" stop="20211106155000 +0800" channel="tc#CKIX">
-    <title lang="tc">Two Cops #2</title>
-  </programme>
-  <programme start="20211106155000 +0800" stop="20211106165500 +0800" channel="tc#CKIX">
-    <title lang="tc">Two Cops #3</title>
-  </programme>
-  <programme start="20211106165500 +0800" stop="20211106180000 +0800" channel="tc#CKIX">
-    <title lang="tc">Two Cops #4</title>
-  </programme>
-  <programme start="20211106180000 +0800" stop="20211106193500 +0800" channel="tc#CKIX">
-    <title lang="tc">刀劍笑</title>
-  </programme>
-  <programme start="20211106193500 +0800" stop="20211106210000 +0800" channel="tc#CKIX">
-    <title lang="tc">Australian Ninja Warrior S1 #2</title>
-  </programme>
-  <programme start="20211106210000 +0800" stop="20211106224000 +0800" channel="tc#CKIX">
-    <title lang="tc">開封降魔傳</title>
-  </programme>
-  <programme start="20211106224000 +0800" stop="20211107001000 +0800" channel="tc#CKIX">
-    <title lang="tc">The Prisoner</title>
-  </programme>
-  <programme start="20211107001000 +0800" stop="20211107012000 +0800" channel="tc#CKIX">
-    <title lang="tc">Run Puppy Run #4</title>
-  </programme>
-  <programme start="20211107012000 +0800" stop="20211107025500 +0800" channel="tc#CKIX">
-    <title lang="tc">崑崙決 #18</title>
-  </programme>
-  <programme start="20211107025500 +0800" stop="20211107044000 +0800" channel="tc#CKIX">
-    <title lang="tc">極地皇陵</title>
-  </programme>
-  <programme start="20211107044000 +0800" stop="20211107055500 +0800" channel="tc#CKIX">
-    <title lang="tc">Yacht Expedition #1</title>
-  </programme>
-  <programme start="20211107055500 +0800" stop="20211107060000 +0800" channel="tc#CKIX">
-    <title lang="tc">10 Fight 10 #1</title>
-  </programme>
-  <programme start="20211107060000 +0800" stop="20211107071000 +0800" channel="tc#CKIX">
-    <title lang="tc">10 Fight 10 #1</title>
-  </programme>
-  <programme start="20211107071000 +0800" stop="20211107081500 +0800" channel="tc#CKIX">
-    <title lang="tc">2020 Idol Star Athletics Championships #1</title>
-  </programme>
-  <programme start="20211107081500 +0800" stop="20211107100000 +0800" channel="tc#CKIX">
-    <title lang="tc">新封神之哪吒鬧海</title>
-  </programme>
-  <programme start="20211107100000 +0800" stop="20211107110500 +0800" channel="tc#CKIX">
-    <title lang="tc">10 Fight 10 #2</title>
-  </programme>
-  <programme start="20211107110500 +0800" stop="20211107123000 +0800" channel="tc#CKIX">
-    <title lang="tc">Yacht Expedition: The Beginning #2</title>
-  </programme>
-  <programme start="20211107123000 +0800" stop="20211107140000 +0800" channel="tc#CKIX">
-    <title lang="tc">無限挑戰 #391</title>
-  </programme>
-  <programme start="20211107140000 +0800" stop="20211107153000 +0800" channel="tc#CKIX">
-    <title lang="tc">Sindiket</title>
-  </programme>
-  <programme start="20211107153000 +0800" stop="20211107164500 +0800" channel="tc#CKIX">
-    <title lang="tc">10 Fight 10 #3</title>
-  </programme>
-  <programme start="20211107164500 +0800" stop="20211107174500 +0800" channel="tc#CKIX">
-    <title lang="tc">2020 Idol Star Athletics Championships #2</title>
-  </programme>
-  <programme start="20211107174500 +0800" stop="20211107194000 +0800" channel="tc#CKIX">
-    <title lang="tc">Grand Prix</title>
-  </programme>
-  <programme start="20211107194000 +0800" stop="20211107210000 +0800" channel="tc#CKIX">
-    <title lang="tc">10 Fight 10 #4</title>
-  </programme>
-  <programme start="20211107210000 +0800" stop="20211107224500 +0800" channel="tc#CKIX">
-    <title lang="tc">黃飛鴻之獅魂覺醒</title>
-  </programme>
-  <programme start="20211107224500 +0800" stop="20211108003500 +0800" channel="tc#CKIX">
-    <title lang="tc">天極</title>
-  </programme>
   <programme start="20211031070000 +0800" stop="20211031072900 +0800" channel="192e717d">
     <title lang="zh">新闻共同睇(重播)</title>
   </programme>
@@ -48368,4 +47948,429 @@
   <programme start="20211105232300 +0800" stop="20211105234600 +0800" channel="asxwzh">
     <title lang="zh">米尔斯探秘生态中国(5)</title>
   </programme>
+    <channel id="304">
+    <display-name lang="zh">KIX (304)</display-name>
+    <url>http://www.promo.mytvsuper.com.E</url>
+  </channel>
+  <programme start="20211101060000 +0800" stop="20211101074000 +0800" channel="304">
+    <title lang="tc">天下無敵掌門人</title>
+  </programme>
+  <programme start="20211101074000 +0800" stop="20211101081000 +0800" channel="304">
+    <title lang="tc">Car Crash TV #401</title>
+  </programme>
+  <programme start="20211101081000 +0800" stop="20211101094500 +0800" channel="304">
+    <title lang="tc">無限挑戰 #373</title>
+  </programme>
+  <programme start="20211101094500 +0800" stop="20211101105500 +0800" channel="304">
+    <title lang="tc">Dunia: Into A New World #1</title>
+  </programme>
+  <programme start="20211101105500 +0800" stop="20211101124500 +0800" channel="304">
+    <title lang="tc">密戰</title>
+  </programme>
+  <programme start="20211101124500 +0800" stop="20211101140000 +0800" channel="304">
+    <title lang="tc">10 Fight 10 #1</title>
+  </programme>
+  <programme start="20211101140000 +0800" stop="20211101143000 +0800" channel="304">
+    <title lang="tc">Car Crash TV #401</title>
+  </programme>
+  <programme start="20211101143000 +0800" stop="20211101161000 +0800" channel="304">
+    <title lang="tc">功夫廚神</title>
+  </programme>
+  <programme start="20211101161000 +0800" stop="20211101173500 +0800" channel="304">
+    <title lang="tc">霍元甲之精武天下</title>
+  </programme>
+  <programme start="20211101173500 +0800" stop="20211101184500 +0800" channel="304">
+    <title lang="tc">Dunia: Into A New World #1</title>
+  </programme>
+  <programme start="20211101184500 +0800" stop="20211101203000 +0800" channel="304">
+    <title lang="tc">雄霸四海</title>
+  </programme>
+  <programme start="20211101203000 +0800" stop="20211101210000 +0800" channel="304">
+    <title lang="tc">Car Crash TV #401</title>
+  </programme>
+  <programme start="20211101210000 +0800" stop="20211101220000 +0800" channel="304">
+    <title lang="tc">Lucha Underground S4 #18</title>
+  </programme>
+  <programme start="20211101220000 +0800" stop="20211101233500 +0800" channel="304">
+    <title lang="tc">崑崙決 #18</title>
+  </programme>
+  <programme start="20211101233500 +0800" stop="20211102005500 +0800" channel="304">
+    <title lang="tc">新封神薑子牙</title>
+  </programme>
+  <programme start="20211102005500 +0800" stop="20211102022500 +0800" channel="304">
+    <title lang="tc">Australian Ninja Warrior S2 #1</title>
+  </programme>
+  <programme start="20211102022500 +0800" stop="20211102025500 +0800" channel="304">
+    <title lang="tc">Car Crash TV #401</title>
+  </programme>
+  <programme start="20211102025500 +0800" stop="20211102035000 +0800" channel="304">
+    <title lang="tc">Lucha Underground S4 #18</title>
+  </programme>
+  <programme start="20211102035000 +0800" stop="20211102053000 +0800" channel="304">
+    <title lang="tc">鐵馬騮II之街頭殺手</title>
+  </programme>
+  <programme start="20211102053000 +0800" stop="20211102060000 +0800" channel="304">
+    <title lang="tc">Dunia: Into A New World #1</title>
+  </programme>
+  <programme start="20211102060000 +0800" stop="20211102064000 +0800" channel="304">
+    <title lang="tc">Dunia: Into A New World #1</title>
+  </programme>
+  <programme start="20211102064000 +0800" stop="20211102073500 +0800" channel="304">
+    <title lang="tc">Lucha Underground S4 #18</title>
+  </programme>
+  <programme start="20211102073500 +0800" stop="20211102080500 +0800" channel="304">
+    <title lang="tc">Car Crash TV #402</title>
+  </programme>
+  <programme start="20211102080500 +0800" stop="20211102093500 +0800" channel="304">
+    <title lang="tc">Sindiket</title>
+  </programme>
+  <programme start="20211102093500 +0800" stop="20211102110500 +0800" channel="304">
+    <title lang="tc">無限挑戰 #375</title>
+  </programme>
+  <programme start="20211102110500 +0800" stop="20211102122000 +0800" channel="304">
+    <title lang="tc">Dunia: Into A New World #2</title>
+  </programme>
+  <programme start="20211102122000 +0800" stop="20211102132500 +0800" channel="304">
+    <title lang="tc">10 Fight 10 #2</title>
+  </programme>
+  <programme start="20211102132500 +0800" stop="20211102135500 +0800" channel="304">
+    <title lang="tc">Car Crash TV #402</title>
+  </programme>
+  <programme start="20211102135500 +0800" stop="20211102153500 +0800" channel="304">
+    <title lang="tc">蘇乞兒</title>
+  </programme>
+  <programme start="20211102153500 +0800" stop="20211102160500 +0800" channel="304">
+    <title lang="tc">Travel Man: 48 hours in... - S06 #1</title>
+  </programme>
+  <programme start="20211102160500 +0800" stop="20211102170500 +0800" channel="304">
+    <title lang="tc">G Wars #2</title>
+  </programme>
+  <programme start="20211102170500 +0800" stop="20211102182000 +0800" channel="304">
+    <title lang="tc">Dunia: Into A New World #2</title>
+  </programme>
+  <programme start="20211102182000 +0800" stop="20211102185000 +0800" channel="304">
+    <title lang="tc">Travel Man: 48 hours in... - S06 #2</title>
+  </programme>
+  <programme start="20211102185000 +0800" stop="20211102203000 +0800" channel="304">
+    <title lang="tc">中華丈夫</title>
+  </programme>
+  <programme start="20211102203000 +0800" stop="20211102210000 +0800" channel="304">
+    <title lang="tc">Car Crash TV #402</title>
+  </programme>
+  <programme start="20211102210000 +0800" stop="20211102220000 +0800" channel="304">
+    <title lang="tc">Ultimate BROcation, The #1</title>
+  </programme>
+  <programme start="20211102220000 +0800" stop="20211102231500 +0800" channel="304">
+    <title lang="tc">Run Puppy Run #3</title>
+  </programme>
+  <programme start="20211102231500 +0800" stop="20211103003000 +0800" channel="304">
+    <title lang="tc">Run Puppy Run #4</title>
+  </programme>
+  <programme start="20211103003000 +0800" stop="20211103021000 +0800" channel="304">
+    <title lang="tc">殲毒先鋒</title>
+  </programme>
+  <programme start="20211103021000 +0800" stop="20211103024000 +0800" channel="304">
+    <title lang="tc">Car Crash TV #402</title>
+  </programme>
+  <programme start="20211103024000 +0800" stop="20211103034000 +0800" channel="304">
+    <title lang="tc">2020 Idol Star Athletics Championships #7</title>
+  </programme>
+  <programme start="20211103034000 +0800" stop="20211103051500 +0800" channel="304">
+    <title lang="tc">蜀山降魔傳</title>
+  </programme>
+  <programme start="20211103051500 +0800" stop="20211103060000 +0800" channel="304">
+    <title lang="tc">Dunia: Into A New World #2</title>
+  </programme>
+  <programme start="20211103060000 +0800" stop="20211103063000 +0800" channel="304">
+    <title lang="tc">Dunia: Into A New World #2</title>
+  </programme>
+  <programme start="20211103063000 +0800" stop="20211103081000 +0800" channel="304">
+    <title lang="tc">亞洲警察之高壓線</title>
+  </programme>
+  <programme start="20211103081000 +0800" stop="20211103084000 +0800" channel="304">
+    <title lang="tc">Car Crash TV #403</title>
+  </programme>
+  <programme start="20211103084000 +0800" stop="20211103101000 +0800" channel="304">
+    <title lang="tc">無限挑戰 #376</title>
+  </programme>
+  <programme start="20211103101000 +0800" stop="20211103112000 +0800" channel="304">
+    <title lang="tc">Dunia: Into A New World #3</title>
+  </programme>
+  <programme start="20211103112000 +0800" stop="20211103130500 +0800" channel="304">
+    <title lang="tc">功夫無敵</title>
+  </programme>
+  <programme start="20211103130500 +0800" stop="20211103142000 +0800" channel="304">
+    <title lang="tc">10 Fight 10 #3</title>
+  </programme>
+  <programme start="20211103142000 +0800" stop="20211103145000 +0800" channel="304">
+    <title lang="tc">Car Crash TV #403</title>
+  </programme>
+  <programme start="20211103145000 +0800" stop="20211103160500 +0800" channel="304">
+    <title lang="tc">Run Puppy Run #3</title>
+  </programme>
+  <programme start="20211103160500 +0800" stop="20211103180500 +0800" channel="304">
+    <title lang="tc">楊門女將之軍令如山</title>
+  </programme>
+  <programme start="20211103180500 +0800" stop="20211103191500 +0800" channel="304">
+    <title lang="tc">Dunia: Into A New World #3</title>
+  </programme>
+  <programme start="20211103191500 +0800" stop="20211103203000 +0800" channel="304">
+    <title lang="tc">Run Puppy Run #4</title>
+  </programme>
+  <programme start="20211103203000 +0800" stop="20211103210000 +0800" channel="304">
+    <title lang="tc">Car Crash TV #403</title>
+  </programme>
+  <programme start="20211103210000 +0800" stop="20211103213000 +0800" channel="304">
+    <title lang="tc">Extreme Ends #1</title>
+  </programme>
+  <programme start="20211103213000 +0800" stop="20211103220000 +0800" channel="304">
+    <title lang="tc">Extreme Ends #2</title>
+  </programme>
+  <programme start="20211103220000 +0800" stop="20211103232500 +0800" channel="304">
+    <title lang="tc">Yacht Expedition: The Beginning #2</title>
+  </programme>
+  <programme start="20211103232500 +0800" stop="20211104005000 +0800" channel="304">
+    <title lang="tc">刺殺風雲</title>
+  </programme>
+  <programme start="20211104005000 +0800" stop="20211104023500 +0800" channel="304">
+    <title lang="tc">Road FC 2018 #6</title>
+  </programme>
+  <programme start="20211104023500 +0800" stop="20211104030500 +0800" channel="304">
+    <title lang="tc">Car Crash TV #403</title>
+  </programme>
+  <programme start="20211104030500 +0800" stop="20211104040000 +0800" channel="304">
+    <title lang="tc">2020 Idol Star Athletics Championships #8</title>
+  </programme>
+  <programme start="20211104040000 +0800" stop="20211104054500 +0800" channel="304">
+    <title lang="tc">火燒島</title>
+  </programme>
+  <programme start="20211104054500 +0800" stop="20211104060000 +0800" channel="304">
+    <title lang="tc">Dunia: Into A New World #3</title>
+  </programme>
+  <programme start="20211104060000 +0800" stop="20211104065500 +0800" channel="304">
+    <title lang="tc">Dunia: Into A New World #3</title>
+  </programme>
+  <programme start="20211104065500 +0800" stop="20211104081500 +0800" channel="304">
+    <title lang="tc">鬥戰勝佛 - 大聖之淚</title>
+  </programme>
+  <programme start="20211104081500 +0800" stop="20211104084500 +0800" channel="304">
+    <title lang="tc">Car Crash TV #404</title>
+  </programme>
+  <programme start="20211104084500 +0800" stop="20211104103500 +0800" channel="304">
+    <title lang="tc">鼠膽龍威</title>
+  </programme>
+  <programme start="20211104103500 +0800" stop="20211104115000 +0800" channel="304">
+    <title lang="tc">Dunia: Into A New World #4</title>
+  </programme>
+  <programme start="20211104115000 +0800" stop="20211104131000 +0800" channel="304">
+    <title lang="tc">10 Fight 10 #4</title>
+  </programme>
+  <programme start="20211104131000 +0800" stop="20211104134000 +0800" channel="304">
+    <title lang="tc">Car Crash TV #404</title>
+  </programme>
+  <programme start="20211104134000 +0800" stop="20211104143500 +0800" channel="304">
+    <title lang="tc">G Wars #3</title>
+  </programme>
+  <programme start="20211104143500 +0800" stop="20211104160000 +0800" channel="304">
+    <title lang="tc">Yacht Expedition: The Beginning #2</title>
+  </programme>
+  <programme start="20211104160000 +0800" stop="20211104173000 +0800" channel="304">
+    <title lang="tc">一品爵爺</title>
+  </programme>
+  <programme start="20211104173000 +0800" stop="20211104184500 +0800" channel="304">
+    <title lang="tc">Dunia: Into A New World #4</title>
+  </programme>
+  <programme start="20211104184500 +0800" stop="20211104203000 +0800" channel="304">
+    <title lang="tc">龍騰虎躍</title>
+  </programme>
+  <programme start="20211104203000 +0800" stop="20211104210000 +0800" channel="304">
+    <title lang="tc">Car Crash TV #404</title>
+  </programme>
+  <programme start="20211104210000 +0800" stop="20211104213000 +0800" channel="304">
+    <title lang="tc">Extreme Ends #3</title>
+  </programme>
+  <programme start="20211104213000 +0800" stop="20211104220000 +0800" channel="304">
+    <title lang="tc">Extreme Ends #4</title>
+  </programme>
+  <programme start="20211104220000 +0800" stop="20211104232500 +0800" channel="304">
+    <title lang="tc">Hangout with Yoo #86</title>
+  </programme>
+  <programme start="20211104232500 +0800" stop="20211105010000 +0800" channel="304">
+    <title lang="tc">齊天大聖之大鬧龍宮</title>
+  </programme>
+  <programme start="20211105010000 +0800" stop="20211105030500 +0800" channel="304">
+    <title lang="tc">Road FC 2018 #7</title>
+  </programme>
+  <programme start="20211105030500 +0800" stop="20211105033500 +0800" channel="304">
+    <title lang="tc">Car Crash TV #404</title>
+  </programme>
+  <programme start="20211105033500 +0800" stop="20211105044000 +0800" channel="304">
+    <title lang="tc">2020 Idol Star Athletics Championships #9</title>
+  </programme>
+  <programme start="20211105044000 +0800" stop="20211105055500 +0800" channel="304">
+    <title lang="tc">Dunia: Into A New World #4</title>
+  </programme>
+  <programme start="20211105055500 +0800" stop="20211105060000 +0800" channel="304">
+    <title lang="tc">Australian Ninja Warrior S2 #2</title>
+  </programme>
+  <programme start="20211105060000 +0800" stop="20211105072500 +0800" channel="304">
+    <title lang="tc">Australian Ninja Warrior S2 #2</title>
+  </programme>
+  <programme start="20211105072500 +0800" stop="20211105075500 +0800" channel="304">
+    <title lang="tc">Car Crash TV #405</title>
+  </programme>
+  <programme start="20211105075500 +0800" stop="20211105085000 +0800" channel="304">
+    <title lang="tc">Fifth Gear S27 #1</title>
+  </programme>
+  <programme start="20211105085000 +0800" stop="20211105100500 +0800" channel="304">
+    <title lang="tc">Dunia: Into A New World #5</title>
+  </programme>
+  <programme start="20211105100500 +0800" stop="20211105114000 +0800" channel="304">
+    <title lang="tc">鍾馗誅妖傳</title>
+  </programme>
+  <programme start="20211105114000 +0800" stop="20211105125500 +0800" channel="304">
+    <title lang="tc">10 Fight 10 #5</title>
+  </programme>
+  <programme start="20211105125500 +0800" stop="20211105132500 +0800" channel="304">
+    <title lang="tc">Car Crash TV #405</title>
+  </programme>
+  <programme start="20211105132500 +0800" stop="20211105150000 +0800" channel="304">
+    <title lang="tc">無限挑戰 #373</title>
+  </programme>
+  <programme start="20211105150000 +0800" stop="20211105165000 +0800" channel="304">
+    <title lang="tc">聊齋之倩女幽魂</title>
+  </programme>
+  <programme start="20211105165000 +0800" stop="20211105174500 +0800" channel="304">
+    <title lang="tc">Fifth Gear S27 #2</title>
+  </programme>
+  <programme start="20211105174500 +0800" stop="20211105190000 +0800" channel="304">
+    <title lang="tc">Dunia: Into A New World #5</title>
+  </programme>
+  <programme start="20211105190000 +0800" stop="20211105203000 +0800" channel="304">
+    <title lang="tc">無限挑戰 #375</title>
+  </programme>
+  <programme start="20211105203000 +0800" stop="20211105210000 +0800" channel="304">
+    <title lang="tc">Car Crash TV #405</title>
+  </programme>
+  <programme start="20211105210000 +0800" stop="20211105222000 +0800" channel="304">
+    <title lang="tc">Urban Cops Season 1 #10</title>
+  </programme>
+  <programme start="20211105222000 +0800" stop="20211105235500 +0800" channel="304">
+    <title lang="tc">玩命</title>
+  </programme>
+  <programme start="20211105235500 +0800" stop="20211106012500 +0800" channel="304">
+    <title lang="tc">無限挑戰 #376</title>
+  </programme>
+  <programme start="20211106012500 +0800" stop="20211106015500 +0800" channel="304">
+    <title lang="tc">Car Crash TV #405</title>
+  </programme>
+  <programme start="20211106015500 +0800" stop="20211106034000 +0800" channel="304">
+    <title lang="tc">戰狼傳說</title>
+  </programme>
+  <programme start="20211106034000 +0800" stop="20211106050000 +0800" channel="304">
+    <title lang="tc">Urban Cops Season 1 #10</title>
+  </programme>
+  <programme start="20211106050000 +0800" stop="20211106060000 +0800" channel="304">
+    <title lang="tc">Dunia: Into A New World #5</title>
+  </programme>
+  <programme start="20211106060000 +0800" stop="20211106061500 +0800" channel="304">
+    <title lang="tc">Dunia: Into A New World #5</title>
+  </programme>
+  <programme start="20211106061500 +0800" stop="20211106073000 +0800" channel="304">
+    <title lang="tc">Run Puppy Run #3</title>
+  </programme>
+  <programme start="20211106073000 +0800" stop="20211106080000 +0800" channel="304">
+    <title lang="tc">Extreme Ends #1</title>
+  </programme>
+  <programme start="20211106080000 +0800" stop="20211106085500 +0800" channel="304">
+    <title lang="tc">Lucha Underground S4 #18</title>
+  </programme>
+  <programme start="20211106085500 +0800" stop="20211106105000 +0800" channel="304">
+    <title lang="tc">“大”人物</title>
+  </programme>
+  <programme start="20211106105000 +0800" stop="20211106121500 +0800" channel="304">
+    <title lang="tc">Australian Ninja Warrior S1 #1</title>
+  </programme>
+  <programme start="20211106121500 +0800" stop="20211106134000 +0800" channel="304">
+    <title lang="tc">Hangout with Yoo #86</title>
+  </programme>
+  <programme start="20211106134000 +0800" stop="20211106144500 +0800" channel="304">
+    <title lang="tc">Two Cops #1</title>
+  </programme>
+  <programme start="20211106144500 +0800" stop="20211106155000 +0800" channel="304">
+    <title lang="tc">Two Cops #2</title>
+  </programme>
+  <programme start="20211106155000 +0800" stop="20211106165500 +0800" channel="304">
+    <title lang="tc">Two Cops #3</title>
+  </programme>
+  <programme start="20211106165500 +0800" stop="20211106180000 +0800" channel="304">
+    <title lang="tc">Two Cops #4</title>
+  </programme>
+  <programme start="20211106180000 +0800" stop="20211106193500 +0800" channel="304">
+    <title lang="tc">刀劍笑</title>
+  </programme>
+  <programme start="20211106193500 +0800" stop="20211106210000 +0800" channel="304">
+    <title lang="tc">Australian Ninja Warrior S1 #2</title>
+  </programme>
+  <programme start="20211106210000 +0800" stop="20211106224000 +0800" channel="304">
+    <title lang="tc">開封降魔傳</title>
+  </programme>
+  <programme start="20211106224000 +0800" stop="20211107001000 +0800" channel="304">
+    <title lang="tc">The Prisoner</title>
+  </programme>
+  <programme start="20211107001000 +0800" stop="20211107012000 +0800" channel="304">
+    <title lang="tc">Run Puppy Run #4</title>
+  </programme>
+  <programme start="20211107012000 +0800" stop="20211107025500 +0800" channel="304">
+    <title lang="tc">崑崙決 #18</title>
+  </programme>
+  <programme start="20211107025500 +0800" stop="20211107044000 +0800" channel="304">
+    <title lang="tc">極地皇陵</title>
+  </programme>
+  <programme start="20211107044000 +0800" stop="20211107055500 +0800" channel="304">
+    <title lang="tc">Yacht Expedition #1</title>
+  </programme>
+  <programme start="20211107055500 +0800" stop="20211107060000 +0800" channel="304">
+    <title lang="tc">10 Fight 10 #1</title>
+  </programme>
+  <programme start="20211107060000 +0800" stop="20211107071000 +0800" channel="304">
+    <title lang="tc">10 Fight 10 #1</title>
+  </programme>
+  <programme start="20211107071000 +0800" stop="20211107081500 +0800" channel="304">
+    <title lang="tc">2020 Idol Star Athletics Championships #1</title>
+  </programme>
+  <programme start="20211107081500 +0800" stop="20211107100000 +0800" channel="304">
+    <title lang="tc">新封神之哪吒鬧海</title>
+  </programme>
+  <programme start="20211107100000 +0800" stop="20211107110500 +0800" channel="304">
+    <title lang="tc">10 Fight 10 #2</title>
+  </programme>
+  <programme start="20211107110500 +0800" stop="20211107123000 +0800" channel="304">
+    <title lang="tc">Yacht Expedition: The Beginning #2</title>
+  </programme>
+  <programme start="20211107123000 +0800" stop="20211107140000 +0800" channel="304">
+    <title lang="tc">無限挑戰 #391</title>
+  </programme>
+  <programme start="20211107140000 +0800" stop="20211107153000 +0800" channel="304">
+    <title lang="tc">Sindiket</title>
+  </programme>
+  <programme start="20211107153000 +0800" stop="20211107164500 +0800" channel="304">
+    <title lang="tc">10 Fight 10 #3</title>
+  </programme>
+  <programme start="20211107164500 +0800" stop="20211107174500 +0800" channel="304">
+    <title lang="tc">2020 Idol Star Athletics Championships #2</title>
+  </programme>
+  <programme start="20211107174500 +0800" stop="20211107194000 +0800" channel="304">
+    <title lang="tc">Grand Prix</title>
+  </programme>
+  <programme start="20211107194000 +0800" stop="20211107210000 +0800" channel="304">
+    <title lang="tc">10 Fight 10 #4</title>
+  </programme>
+  <programme start="20211107210000 +0800" stop="20211107224500 +0800" channel="304">
+    <title lang="tc">黃飛鴻之獅魂覺醒</title>
+  </programme>
+  <programme start="20211107224500 +0800" stop="20211108003500 +0800" channel="304">
+    <title lang="tc">天極</title>
+  </programme>
+  
 </tv>
