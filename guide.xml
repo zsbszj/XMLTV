@@ -47116,6 +47116,10 @@
     <display-name lang="en">TVB1</display-name>
     <url>http://www.streamingtvguides.com</url>
   </channel>
+  <channel id="TVBE">
+    <display-name lang="en">TVBE</display-name>
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
   <channel id="TVBDRA TVB Drama">
     <display-name lang="en">TVBDRA TVB Drama</display-name>
     <url>http://www.streamingtvguides.com</url>
@@ -47457,11 +47461,340 @@
   <programme start="20211118230000 -0800" stop="20211118233000 -0800" channel="TVB1">
     <title lang="en">Better Be Healthy</title>
   </programme>
-  <programme start="20211118233000 -0800" stop="20211116120000 -0800" channel="TVB1">
+  <programme start="20211118233000 -0800" stop="20211116123000 -0800" channel="TVB1">
     <title lang="en">Scoop</title>
   </programme>
-  <programme start="20211116120000 -0800" stop="20211115225000 -0800" channel="TVB1">
-    <title lang="en">Scoop</title>
+  <programme start="20211116123000 -0800" stop="20211115225000 -0800" channel="TVB1">
+    <title lang="en">The No No Girl</title>
+  </programme>
+  <programme start="20211116040000 -0800" stop="20211116050000 -0800" channel="TVBE">
+    <title lang="en">Wealth 360</title>
+  </programme>
+  <programme start="20211116050000 -0800" stop="20211116053000 -0800" channel="TVBE">
+    <title lang="en">Hong Kong, World Noon News</title>
+    <desc lang="en">News.(n)</desc>
+  </programme>
+  <programme start="20211116053000 -0800" stop="20211116060000 -0800" channel="TVBE">
+    <title lang="en">Buddhist Talk Show</title>
+  </programme>
+  <programme start="20211116060000 -0800" stop="20211116070000 -0800" channel="TVBE">
+    <title lang="en">Market Wrap-Up</title>
+  </programme>
+  <programme start="20211116070000 -0800" stop="20211116073000 -0800" channel="TVBE">
+    <title lang="en">Hong Kong, World News</title>
+    <desc lang="en">News.(n)</desc>
+  </programme>
+  <programme start="20211116073000 -0800" stop="20211116080000 -0800" channel="TVBE">
+    <title lang="en">Closer Look at Property</title>
+  </programme>
+  <programme start="20211116080000 -0800" stop="20211116090000 -0800" channel="TVBE">
+    <title lang="en">Market Wrap-Up</title>
+  </programme>
+  <programme start="20211116090000 -0800" stop="20211116100000 -0800" channel="TVBE">
+    <title lang="en">Entertainment News</title>
+  </programme>
+  <programme start="20211116100000 -0800" stop="20211116103000 -0800" channel="TVBE">
+    <title lang="en">Buddhist Talk Show</title>
+  </programme>
+  <programme start="20211116103000 -0800" stop="20211116110000 -0800" channel="TVBE">
+    <title lang="en">On the Record</title>
+  </programme>
+  <programme start="20211116110000 -0800" stop="20211116120000 -0800" channel="TVBE">
+    <title lang="en">The Guy Next Door</title>
+  </programme>
+  <programme start="20211116120000 -0800" stop="20211116123000 -0800" channel="TVBE">
+    <title lang="en">Entertainment News</title>
+  </programme>
+  <programme start="20211116123000 -0800" stop="20211116130000 -0800" channel="TVBE">
+    <title lang="en">Welcome to the House</title>
+  </programme>
+  <programme start="20211116130000 -0800" stop="20211116140000 -0800" channel="TVBE">
+    <title lang="en">Bon Appetit + As Far As You Reach</title>
+  </programme>
+  <programme start="20211116140000 -0800" stop="20211116150000 -0800" channel="TVBE">
+    <title lang="en">Entertainment News</title>
+  </programme>
+  <programme start="20211116150000 -0800" stop="20211116153000 -0800" channel="TVBE">
+    <title lang="en">Hands Up</title>
+  </programme>
+  <programme start="20211116153000 -0800" stop="20211116160000 -0800" channel="TVBE">
+    <title lang="en">Hong Kong, World News Roundup</title>
+    <desc lang="en">(Chinese).(n)</desc>
+  </programme>
+  <programme start="20211116160000 -0800" stop="20211116170000 -0800" channel="TVBE">
+    <title lang="en">Hong Kong Love Stories</title>
+    <desc lang="en">A young designer and his idealist girlfriend decide to get married, but get stuck living at home because they have trouble finding affordable housing, a typical problem in Hong Kong.(n)</desc>
+  </programme>
+  <programme start="20211116170000 -0800" stop="20211116173000 -0800" channel="TVBE">
+    <title lang="en">Art and Culture Magazine</title>
+  </programme>
+  <programme start="20211116173000 -0800" stop="20211116180000 -0800" channel="TVBE">
+    <title lang="en">A Dream Home Planning</title>
+  </programme>
+  <programme start="20211116180000 -0800" stop="20211116183000 -0800" channel="TVBE">
+    <title lang="en">Entertainment News</title>
+  </programme>
+  <programme start="20211116183000 -0800" stop="20211116184500 -0800" channel="TVBE">
+    <title lang="en">North America News</title>
+  </programme>
+  <programme start="20211116184500 -0800" stop="20211116190000 -0800" channel="TVBE">
+    <title lang="en">A Closer Look</title>
+  </programme>
+  <programme start="20211116190000 -0800" stop="20211116200000 -0800" channel="TVBE">
+    <title lang="en">Nothing Special Force</title>
+    <desc lang="en">The investigations of the Miscellaneous Enquiries unit include nuisance, liquor licenses, non-criminal deaths and other uncategorized cases; they may all be bizarre but they're also all hilarious.(n)</desc>
+  </programme>
+  <programme start="20211116200000 -0800" stop="20211116203000 -0800" channel="TVBE">
+    <title lang="en">Hong Kong, World News Roundup</title>
+    <desc lang="en">(Chinese).(n)</desc>
+  </programme>
+  <programme start="20211116203000 -0800" stop="20211116210000 -0800" channel="TVBE">
+    <title lang="en">A Dream Home Planning</title>
+  </programme>
+  <programme start="20211116210000 -0800" stop="20211116220000 -0800" channel="TVBE">
+    <title lang="en">Hong Kong Love Stories</title>
+    <desc lang="en">A young designer and his idealist girlfriend decide to get married, but get stuck living at home because they have trouble finding affordable housing, a typical problem in Hong Kong.(n)</desc>
+  </programme>
+  <programme start="20211116220000 -0800" stop="20211116230000 -0800" channel="TVBE">
+    <title lang="en">Shopping Planet + As Far As You Reach</title>
+  </programme>
+  <programme start="20211116230000 -0800" stop="20211117000000 -0800" channel="TVBE">
+    <title lang="en">Entertainment News</title>
+  </programme>
+  <programme start="20211117000000 -0800" stop="20211117010000 -0800" channel="TVBE">
+    <title lang="en">Wealth 360</title>
+  </programme>
+  <programme start="20211117010000 -0800" stop="20211117013000 -0800" channel="TVBE">
+    <title lang="en">On the Record</title>
+  </programme>
+  <programme start="20211117013000 -0800" stop="20211117014500 -0800" channel="TVBE">
+    <title lang="en">North America News</title>
+  </programme>
+  <programme start="20211117014500 -0800" stop="20211117020000 -0800" channel="TVBE">
+    <title lang="en">A Closer Look</title>
+  </programme>
+  <programme start="20211117020000 -0800" stop="20211117030000 -0800" channel="TVBE">
+    <title lang="en">Entertainment News</title>
+  </programme>
+  <programme start="20211117030000 -0800" stop="20211117040000 -0800" channel="TVBE">
+    <title lang="en">Nothing Special Force</title>
+    <desc lang="en">The investigations of the Miscellaneous Enquiries unit include nuisance, liquor licenses, non-criminal deaths and other uncategorized cases; they may all be bizarre but they're also all hilarious.(n)</desc>
+  </programme>
+  <programme start="20211117040000 -0800" stop="20211117050000 -0800" channel="TVBE">
+    <title lang="en">Wealth 360</title>
+  </programme>
+  <programme start="20211117050000 -0800" stop="20211117053000 -0800" channel="TVBE">
+    <title lang="en">Hong Kong, World Noon News</title>
+    <desc lang="en">News.(n)</desc>
+  </programme>
+  <programme start="20211117053000 -0800" stop="20211117060000 -0800" channel="TVBE">
+    <title lang="en">Buddhist Talk Show</title>
+  </programme>
+  <programme start="20211117060000 -0800" stop="20211117070000 -0800" channel="TVBE">
+    <title lang="en">Market Wrap-Up</title>
+  </programme>
+  <programme start="20211117070000 -0800" stop="20211117073000 -0800" channel="TVBE">
+    <title lang="en">Hong Kong, World News</title>
+    <desc lang="en">News.(n)</desc>
+  </programme>
+  <programme start="20211117073000 -0800" stop="20211117080000 -0800" channel="TVBE">
+    <title lang="en">A Dream Home Planning</title>
+  </programme>
+  <programme start="20211117080000 -0800" stop="20211117090000 -0800" channel="TVBE">
+    <title lang="en">Market Wrap-Up</title>
+  </programme>
+  <programme start="20211117090000 -0800" stop="20211117100000 -0800" channel="TVBE">
+    <title lang="en">Entertainment News</title>
+  </programme>
+  <programme start="20211117100000 -0800" stop="20211117103000 -0800" channel="TVBE">
+    <title lang="en">Vital Lifeline</title>
+  </programme>
+  <programme start="20211117103000 -0800" stop="20211117110000 -0800" channel="TVBE">
+    <title lang="en">News Magazine</title>
+  </programme>
+  <programme start="20211117110000 -0800" stop="20211117120000 -0800" channel="TVBE">
+    <title lang="en">Art And Culture Magazine plus Own Sweet Home</title>
+  </programme>
+  <programme start="20211117120000 -0800" stop="20211117123000 -0800" channel="TVBE">
+    <title lang="en">Entertainment News</title>
+  </programme>
+  <programme start="20211117123000 -0800" stop="20211117130000 -0800" channel="TVBE">
+    <title lang="en">Welcome to the House</title>
+  </programme>
+  <programme start="20211117130000 -0800" stop="20211117140000 -0800" channel="TVBE">
+    <title lang="en">Young and Restless</title>
+  </programme>
+  <programme start="20211117140000 -0800" stop="20211117150000 -0800" channel="TVBE">
+    <title lang="en">Entertainment News</title>
+  </programme>
+  <programme start="20211117150000 -0800" stop="20211117153000 -0800" channel="TVBE">
+    <title lang="en">Hands Up!</title>
+    <desc lang="en">A depressed writer learns to live through the games of a child.(n)</desc>
+  </programme>
+  <programme start="20211117153000 -0800" stop="20211117160000 -0800" channel="TVBE">
+    <title lang="en">Hong Kong, World News Roundup</title>
+    <desc lang="en">(Chinese).(n)</desc>
+  </programme>
+  <programme start="20211117160000 -0800" stop="20211117170000 -0800" channel="TVBE">
+    <title lang="en">Hong Kong Love Stories</title>
+    <desc lang="en">A young designer and his idealist girlfriend decide to get married, but get stuck living at home because they have trouble finding affordable housing, a typical problem in Hong Kong.(n)</desc>
+  </programme>
+  <programme start="20211117170000 -0800" stop="20211117173000 -0800" channel="TVBE">
+    <title lang="en">Vital Lifeline</title>
+  </programme>
+  <programme start="20211117173000 -0800" stop="20211117180000 -0800" channel="TVBE">
+    <title lang="en">Innovation GPS</title>
+  </programme>
+  <programme start="20211117180000 -0800" stop="20211117183000 -0800" channel="TVBE">
+    <title lang="en">Entertainment News</title>
+  </programme>
+  <programme start="20211117183000 -0800" stop="20211117184500 -0800" channel="TVBE">
+    <title lang="en">North America News</title>
+  </programme>
+  <programme start="20211117184500 -0800" stop="20211117190000 -0800" channel="TVBE">
+    <title lang="en">A Closer Look</title>
+  </programme>
+  <programme start="20211117190000 -0800" stop="20211117200000 -0800" channel="TVBE">
+    <title lang="en">Nothing Special Force</title>
+    <desc lang="en">The investigations of the Miscellaneous Enquiries unit include nuisance, liquor licenses, non-criminal deaths and other uncategorized cases; they may all be bizarre but they're also all hilarious.(n)</desc>
+  </programme>
+  <programme start="20211117200000 -0800" stop="20211117203000 -0800" channel="TVBE">
+    <title lang="en">Hong Kong, World News Roundup</title>
+    <desc lang="en">(Chinese).(n)</desc>
+  </programme>
+  <programme start="20211117203000 -0800" stop="20211117210000 -0800" channel="TVBE">
+    <title lang="en">Innovation GPS</title>
+  </programme>
+  <programme start="20211117210000 -0800" stop="20211117220000 -0800" channel="TVBE">
+    <title lang="en">Hong Kong Love Stories</title>
+    <desc lang="en">A young designer and his idealist girlfriend decide to get married, but get stuck living at home because they have trouble finding affordable housing, a typical problem in Hong Kong.(n)</desc>
+  </programme>
+  <programme start="20211117220000 -0800" stop="20211117230000 -0800" channel="TVBE">
+    <title lang="en">Young and Restless</title>
+  </programme>
+  <programme start="20211117230000 -0800" stop="20211118000000 -0800" channel="TVBE">
+    <title lang="en">Entertainment News</title>
+  </programme>
+  <programme start="20211118000000 -0800" stop="20211118010000 -0800" channel="TVBE">
+    <title lang="en">Wealth 360</title>
+  </programme>
+  <programme start="20211118010000 -0800" stop="20211118013000 -0800" channel="TVBE">
+    <title lang="en">News Magazine</title>
+  </programme>
+  <programme start="20211118013000 -0800" stop="20211118014500 -0800" channel="TVBE">
+    <title lang="en">North America News</title>
+  </programme>
+  <programme start="20211118014500 -0800" stop="20211118020000 -0800" channel="TVBE">
+    <title lang="en">A Closer Look</title>
+  </programme>
+  <programme start="20211118020000 -0800" stop="20211118030000 -0800" channel="TVBE">
+    <title lang="en">Entertainment News</title>
+  </programme>
+  <programme start="20211118030000 -0800" stop="20211118040000 -0800" channel="TVBE">
+    <title lang="en">Nothing Special Force</title>
+    <desc lang="en">The investigations of the Miscellaneous Enquiries unit include nuisance, liquor licenses, non-criminal deaths and other uncategorized cases; they may all be bizarre but they're also all hilarious.(n)</desc>
+  </programme>
+  <programme start="20211118040000 -0800" stop="20211118050000 -0800" channel="TVBE">
+    <title lang="en">Wealth 360</title>
+  </programme>
+  <programme start="20211118050000 -0800" stop="20211118053000 -0800" channel="TVBE">
+    <title lang="en">Hong Kong, World Noon News</title>
+    <desc lang="en">News.(n)</desc>
+  </programme>
+  <programme start="20211118053000 -0800" stop="20211118060000 -0800" channel="TVBE">
+    <title lang="en">Buddhist Talk Show</title>
+  </programme>
+  <programme start="20211118060000 -0800" stop="20211118070000 -0800" channel="TVBE">
+    <title lang="en">Market Wrap-Up</title>
+  </programme>
+  <programme start="20211118070000 -0800" stop="20211118073000 -0800" channel="TVBE">
+    <title lang="en">Hong Kong, World News</title>
+    <desc lang="en">News.(n)</desc>
+  </programme>
+  <programme start="20211118073000 -0800" stop="20211118080000 -0800" channel="TVBE">
+    <title lang="en">Innovation GPS</title>
+  </programme>
+  <programme start="20211118080000 -0800" stop="20211118090000 -0800" channel="TVBE">
+    <title lang="en">Market Wrap-Up</title>
+  </programme>
+  <programme start="20211118090000 -0800" stop="20211118100000 -0800" channel="TVBE">
+    <title lang="en">Entertainment News</title>
+  </programme>
+  <programme start="20211118100000 -0800" stop="20211118103000 -0800" channel="TVBE">
+    <title lang="en">Buddhist Talk Show</title>
+  </programme>
+  <programme start="20211118103000 -0800" stop="20211118110000 -0800" channel="TVBE">
+    <title lang="en">Sunday Report</title>
+    <desc lang="en">NBC News takes detailed looks at critical issues.(n)</desc>
+  </programme>
+  <programme start="20211118110000 -0800" stop="20211118120000 -0800" channel="TVBE">
+    <title lang="en">Police Tactical Unit 2019 Plus Solo Road Trip</title>
+  </programme>
+  <programme start="20211118120000 -0800" stop="20211118123000 -0800" channel="TVBE">
+    <title lang="en">Entertainment News</title>
+  </programme>
+  <programme start="20211118123000 -0800" stop="20211118130000 -0800" channel="TVBE">
+    <title lang="en">Welcome to the House</title>
+  </programme>
+  <programme start="20211118130000 -0800" stop="20211118140000 -0800" channel="TVBE">
+    <title lang="en">Happy Dinner Together + Homegrown Flavours</title>
+  </programme>
+  <programme start="20211118140000 -0800" stop="20211118150000 -0800" channel="TVBE">
+    <title lang="en">Entertainment News</title>
+  </programme>
+  <programme start="20211118150000 -0800" stop="20211118153000 -0800" channel="TVBE">
+    <title lang="en">Hands Up!</title>
+    <desc lang="en">A depressed writer learns to live through the games of a child.(n)</desc>
+  </programme>
+  <programme start="20211118153000 -0800" stop="20211118160000 -0800" channel="TVBE">
+    <title lang="en">Hong Kong, World News Roundup</title>
+    <desc lang="en">(Chinese).(n)</desc>
+  </programme>
+  <programme start="20211118160000 -0800" stop="20211118170000 -0800" channel="TVBE">
+    <title lang="en">The Legend of Xiao Chuo</title>
+    <desc lang="en">Adaptation of a novel chronicling the life of legendary Chinese Empress Xiao Yanyan of the Liao Dynasty.(n)</desc>
+  </programme>
+  <programme start="20211118170000 -0800" stop="20211118173000 -0800" channel="TVBE">
+    <title lang="en">Own Sweet Home 2020</title>
+  </programme>
+  <programme start="20211118173000 -0800" stop="20211118180000 -0800" channel="TVBE">
+    <title lang="en">Gold Rush</title>
+  </programme>
+  <programme start="20211118180000 -0800" stop="20211118183000 -0800" channel="TVBE">
+    <title lang="en">Entertainment News</title>
+  </programme>
+  <programme start="20211118183000 -0800" stop="20211118184500 -0800" channel="TVBE">
+    <title lang="en">North America News</title>
+  </programme>
+  <programme start="20211118184500 -0800" stop="20211118190000 -0800" channel="TVBE">
+    <title lang="en">A Closer Look</title>
+  </programme>
+  <programme start="20211118190000 -0800" stop="20211118200000 -0800" channel="TVBE">
+    <title lang="en">Nothing Special Force</title>
+    <desc lang="en">The investigations of the Miscellaneous Enquiries unit include nuisance, liquor licenses, non-criminal deaths and other uncategorized cases; they may all be bizarre but they're also all hilarious.(n)</desc>
+  </programme>
+  <programme start="20211118200000 -0800" stop="20211118203000 -0800" channel="TVBE">
+    <title lang="en">Hong Kong, World News Roundup</title>
+    <desc lang="en">(Chinese).(n)</desc>
+  </programme>
+  <programme start="20211118203000 -0800" stop="20211118210000 -0800" channel="TVBE">
+    <title lang="en">Gold Rush</title>
+  </programme>
+  <programme start="20211118210000 -0800" stop="20211118220000 -0800" channel="TVBE">
+    <title lang="en">The Legend of Xiao Chuo</title>
+    <desc lang="en">Adaptation of a novel chronicling the life of legendary Chinese Empress Xiao Yanyan of the Liao Dynasty.(n)</desc>
+  </programme>
+  <programme start="20211118220000 -0800" stop="20211118230000 -0800" channel="TVBE">
+    <title lang="en">Happy Dinner Together + Homegrown Flavours</title>
+  </programme>
+  <programme start="20211118230000 -0800" stop="20211119000000 -0800" channel="TVBE">
+    <title lang="en">Entertainment News</title>
+  </programme>
+  <programme start="20211119000000 -0800" stop="20211116123000 -0800" channel="TVBE">
+    <title lang="en">Wealth 360</title>
+  </programme>
+  <programme start="20211116123000 -0800" stop="20211115220000 -0800" channel="TVBE">
+    <title lang="en">Welcome to the House</title>
   </programme>
   <programme start="20211116040000 -0800" stop="20211116060000 -0800" channel="TVBDRA TVB Drama">
     <title lang="en">Classic Movies</title>
