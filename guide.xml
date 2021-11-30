@@ -108,6 +108,273 @@
     <display-name lang="en">ONE HD (Mandarin)</display-name>
     <url>http://www.singteltv.com.sg</url>
   </channel>
+  <programme start="20211130070200 +0800" stop="20211130073700 +0800" channel="zszhpd">
+    <title lang="zh">传奇 286期</title>
+  </programme>
+  <programme start="20211130073700 +0800" stop="20211130081100 +0800" channel="zszhpd">
+    <title lang="zh">奇趣大自然 283期</title>
+  </programme>
+  <programme start="20211130081100 +0800" stop="20211130103800 +0800" channel="zszhpd">
+    <title lang="zh">幸福触手可及 10-12集(重播)</title>
+  </programme>
+  <programme start="20211130103800 +0800" stop="20211130121600 +0800" channel="zszhpd">
+    <title lang="zh">奔腾年代 17-18集(重播)</title>
+  </programme>
+  <programme start="20211130121600 +0800" stop="20211130131000 +0800" channel="zszhpd">
+    <title lang="zh">外来媳妇本地郎 “从天而降的孩子”(上,下)</title>
+  </programme>
+  <programme start="20211130131000 +0800" stop="20211130134300 +0800" channel="zszhpd">
+    <title lang="zh">传奇 287期</title>
+  </programme>
+  <programme start="20211130165300 +0800" stop="20211130171800 +0800" channel="zszhpd">
+    <title lang="zh">你好卟卟第四季 11-14集(重播)</title>
+  </programme>
+  <programme start="20211130171800 +0800" stop="20211130173400 +0800" channel="zszhpd">
+    <title lang="zh">探探猫奇妙世界2 12集(重播)</title>
+  </programme>
+  <programme start="20211130173400 +0800" stop="20211130182700 +0800" channel="zszhpd">
+    <title lang="zh">外来媳妇本地郎 “非一般用电”(上,下)</title>
+  </programme>
+  <programme start="20211130182700 +0800" stop="20211130190000 +0800" channel="zszhpd">
+    <title lang="zh">智造美好生活 1集(3,4) (首播)</title>
+  </programme>
+  <programme start="20211130190000 +0800" stop="20211130193000 +0800" channel="zszhpd">
+    <title lang="zh">转播CCTV-1新闻联播</title>
+  </programme>
+  <programme start="20211130193000 +0800" stop="20211130233800 +0800" channel="zszhpd">
+    <title lang="zh">光荣时代 16-20集(首播)</title>
+  </programme>
+  <programme start="20211130233800 +0800" stop="20211201070200 +0800" channel="zszhpd">
+    <title lang="zh">智造美好生活 1集(3,4) (重播)</title>
+  </programme>
+  <programme start="20211201070200 +0800" stop="20211201073600 +0800" channel="zszhpd">
+    <title lang="zh">传奇 287期</title>
+  </programme>
+  <programme start="20211201073600 +0800" stop="20211201081000 +0800" channel="zszhpd">
+    <title lang="zh">奇趣大自然 284期</title>
+  </programme>
+  <programme start="20211201081000 +0800" stop="20211201103500 +0800" channel="zszhpd">
+    <title lang="zh">幸福触手可及 13-15集(重播)</title>
+  </programme>
+  <programme start="20211201103500 +0800" stop="20211201121500 +0800" channel="zszhpd">
+    <title lang="zh">奔腾年代 19-20集(重播)</title>
+  </programme>
+  <programme start="20211201121500 +0800" stop="20211201130500 +0800" channel="zszhpd">
+    <title lang="zh">外来媳妇本地郎 “非一般用电”(上,下)</title>
+  </programme>
+  <programme start="20211201130500 +0800" stop="20211201134000 +0800" channel="zszhpd">
+    <title lang="zh">传奇 288期</title>
+  </programme>
+  <programme start="20211201134000 +0800" stop="20211201141800 +0800" channel="zszhpd">
+    <title lang="zh">奇趣大自然 285期</title>
+  </programme>
+  <programme start="20211201141800 +0800" stop="20211201164500 +0800" channel="zszhpd">
+    <title lang="zh">隐秘而伟大 6-8集(重播)</title>
+  </programme>
+  <programme start="20211201164500 +0800" stop="20211201171300 +0800" channel="zszhpd">
+    <title lang="zh">你好卟卟第四季 15-18集(重播)</title>
+  </programme>
+  <programme start="20211201171300 +0800" stop="20211201173000 +0800" channel="zszhpd">
+    <title lang="zh">探探猫奇妙世界2 13集(重播)</title>
+  </programme>
+  <programme start="20211201173000 +0800" stop="20211201182100 +0800" channel="zszhpd">
+    <title lang="zh">外来媳妇本地郎 “阿光的困惑”(上,下)</title>
+  </programme>
+  <programme start="20211201182100 +0800" stop="20211201190000 +0800" channel="zszhpd">
+    <title lang="zh">智造美好生活 2集(1,2) (首播)</title>
+  </programme>
+  <programme start="20211201190000 +0800" stop="20211201193000 +0800" channel="zszhpd">
+    <title lang="zh">转播CCTV-1新闻联播</title>
+  </programme>
+  <programme start="20211201193000 +0800" stop="20211201233500 +0800" channel="zszhpd">
+    <title lang="zh">光荣时代 21-25集(首播)</title>
+  </programme>
+  <programme start="20211201233500 +0800" stop="20211202070200 +0800" channel="zszhpd">
+    <title lang="zh">智造美好生活 2集(1,2) (重播)</title>
+  </programme>
+  <programme start="20211202070200 +0800" stop="20211202073600 +0800" channel="zszhpd">
+    <title lang="zh">传奇 288期</title>
+  </programme>
+  <programme start="20211202073600 +0800" stop="20211202081000 +0800" channel="zszhpd">
+    <title lang="zh">奇趣大自然 285期</title>
+  </programme>
+  <programme start="20211202081000 +0800" stop="20211202103500 +0800" channel="zszhpd">
+    <title lang="zh">幸福触手可及 16-18集(重播)</title>
+  </programme>
+  <programme start="20211202103500 +0800" stop="20211202121500 +0800" channel="zszhpd">
+    <title lang="zh">奔腾年代 21-22集(重播)</title>
+  </programme>
+  <programme start="20211202121500 +0800" stop="20211202130500 +0800" channel="zszhpd">
+    <title lang="zh">外来媳妇本地郎 “阿光的困惑”(上,下)</title>
+  </programme>
+  <programme start="20211202130500 +0800" stop="20211202134000 +0800" channel="zszhpd">
+    <title lang="zh">传奇 289期</title>
+  </programme>
+  <programme start="20211202134000 +0800" stop="20211202141800 +0800" channel="zszhpd">
+    <title lang="zh">奇趣大自然 286期</title>
+  </programme>
+  <programme start="20211202141800 +0800" stop="20211202164500 +0800" channel="zszhpd">
+    <title lang="zh">隐秘而伟大 9-11集(重播)</title>
+  </programme>
+  <programme start="20211202164500 +0800" stop="20211202171300 +0800" channel="zszhpd">
+    <title lang="zh">你好卟卟第四季 19-22集(重播)</title>
+  </programme>
+  <programme start="20211202171300 +0800" stop="20211202173000 +0800" channel="zszhpd">
+    <title lang="zh">探探猫奇妙世界2 14集(重播)</title>
+  </programme>
+  <programme start="20211202173000 +0800" stop="20211202182100 +0800" channel="zszhpd">
+    <title lang="zh">外来媳妇本地郎 “锦绣前程”(一,二)</title>
+  </programme>
+  <programme start="20211202182100 +0800" stop="20211202190000 +0800" channel="zszhpd">
+    <title lang="zh">智造美好生活 2集(3,4) (首播)</title>
+  </programme>
+  <programme start="20211202190000 +0800" stop="20211202193000 +0800" channel="zszhpd">
+    <title lang="zh">转播CCTV-1新闻联播</title>
+  </programme>
+  <programme start="20211202193000 +0800" stop="20211202233500 +0800" channel="zszhpd">
+    <title lang="zh">光荣时代 26-30集(首播)</title>
+  </programme>
+  <programme start="20211202233500 +0800" stop="20211203070200 +0800" channel="zszhpd">
+    <title lang="zh">智造美好生活 2集(3,4) (重播)</title>
+  </programme>
+  <programme start="20211203070200 +0800" stop="20211203073600 +0800" channel="zszhpd">
+    <title lang="zh">传奇 289期</title>
+  </programme>
+  <programme start="20211203073600 +0800" stop="20211203081000 +0800" channel="zszhpd">
+    <title lang="zh">奇趣大自然 286期</title>
+  </programme>
+  <programme start="20211203081000 +0800" stop="20211203103500 +0800" channel="zszhpd">
+    <title lang="zh">幸福触手可及 19-21集(重播)</title>
+  </programme>
+  <programme start="20211203103500 +0800" stop="20211203121500 +0800" channel="zszhpd">
+    <title lang="zh">奔腾年代 23-24集(重播)</title>
+  </programme>
+  <programme start="20211203121500 +0800" stop="20211203130500 +0800" channel="zszhpd">
+    <title lang="zh">外来媳妇本地郎 “锦绣前程”(一,二)</title>
+  </programme>
+  <programme start="20211203130500 +0800" stop="20211203134000 +0800" channel="zszhpd">
+    <title lang="zh">传奇 290期</title>
+  </programme>
+  <programme start="20211203134000 +0800" stop="20211203141800 +0800" channel="zszhpd">
+    <title lang="zh">奇趣大自然 287期</title>
+  </programme>
+  <programme start="20211203141800 +0800" stop="20211203164500 +0800" channel="zszhpd">
+    <title lang="zh">隐秘而伟大 12-14集(重播)</title>
+  </programme>
+  <programme start="20211203164500 +0800" stop="20211203171300 +0800" channel="zszhpd">
+    <title lang="zh">你好卟卟第四季 23-26集(重播)</title>
+  </programme>
+  <programme start="20211203171300 +0800" stop="20211203173000 +0800" channel="zszhpd">
+    <title lang="zh">探探猫奇妙世界2 15集(重播)</title>
+  </programme>
+  <programme start="20211203173000 +0800" stop="20211203182100 +0800" channel="zszhpd">
+    <title lang="zh">外来媳妇本地郎 “锦绣前程”(三,四)</title>
+  </programme>
+  <programme start="20211203182100 +0800" stop="20211203190000 +0800" channel="zszhpd">
+    <title lang="zh">智造美好生活 3集(1,2) (首播)</title>
+  </programme>
+  <programme start="20211203190000 +0800" stop="20211203193000 +0800" channel="zszhpd">
+    <title lang="zh">转播CCTV-1新闻联播</title>
+  </programme>
+  <programme start="20211203193000 +0800" stop="20211203233500 +0800" channel="zszhpd">
+    <title lang="zh">光荣时代 31-35集(首播)</title>
+  </programme>
+  <programme start="20211203233500 +0800" stop="20211204070200 +0800" channel="zszhpd">
+    <title lang="zh">智造美好生活 3集(1,2) (重播)</title>
+  </programme>
+  <programme start="20211204070200 +0800" stop="20211204073600 +0800" channel="zszhpd">
+    <title lang="zh">传奇 290期</title>
+  </programme>
+  <programme start="20211204073600 +0800" stop="20211204081000 +0800" channel="zszhpd">
+    <title lang="zh">奇趣大自然 287期</title>
+  </programme>
+  <programme start="20211204081000 +0800" stop="20211204103500 +0800" channel="zszhpd">
+    <title lang="zh">幸福触手可及 22-24集(重播)</title>
+  </programme>
+  <programme start="20211204103500 +0800" stop="20211204121500 +0800" channel="zszhpd">
+    <title lang="zh">奔腾年代 25-26集(重播)</title>
+  </programme>
+  <programme start="20211204121500 +0800" stop="20211204130500 +0800" channel="zszhpd">
+    <title lang="zh">外来媳妇本地郎 “锦绣前程”(三,四)</title>
+  </programme>
+  <programme start="20211204130500 +0800" stop="20211204134000 +0800" channel="zszhpd">
+    <title lang="zh">传奇 291期</title>
+  </programme>
+  <programme start="20211204134000 +0800" stop="20211204141800 +0800" channel="zszhpd">
+    <title lang="zh">奇趣大自然 288期</title>
+  </programme>
+  <programme start="20211204141800 +0800" stop="20211204164500 +0800" channel="zszhpd">
+    <title lang="zh">隐秘而伟大 15-17集(重播)</title>
+  </programme>
+  <programme start="20211204164500 +0800" stop="20211204171300 +0800" channel="zszhpd">
+    <title lang="zh">幸福路上 1-3集(重播)</title>
+  </programme>
+  <programme start="20211204171300 +0800" stop="20211204173000 +0800" channel="zszhpd">
+    <title lang="zh">探探猫奇妙世界2 16集(重播)</title>
+  </programme>
+  <programme start="20211204173000 +0800" stop="20211204182100 +0800" channel="zszhpd">
+    <title lang="zh">外来媳妇本地郎 “查查更健康”(上,下)</title>
+  </programme>
+  <programme start="20211204182100 +0800" stop="20211204190000 +0800" channel="zszhpd">
+    <title lang="zh">智造美好生活 3集(3,4) (首播)</title>
+  </programme>
+  <programme start="20211204190000 +0800" stop="20211204193000 +0800" channel="zszhpd">
+    <title lang="zh">转播CCTV-1新闻联播</title>
+  </programme>
+  <programme start="20211204193000 +0800" stop="20211204210000 +0800" channel="zszhpd">
+    <title lang="zh">电影:奇袭 76'</title>
+  </programme>
+  <programme start="20211204210000 +0800" stop="20211204223500 +0800" channel="zszhpd">
+    <title lang="zh">电影:冲破黎明前的黑暗 90'</title>
+  </programme>
+  <programme start="20211204223500 +0800" stop="20211204230000 +0800" channel="zszhpd">
+    <title lang="zh">智造美好生活 3集(3,4)(重播)</title>
+  </programme>
+  <programme start="20211204230000 +0800" stop="20211205070200 +0800" channel="zszhpd">
+    <title lang="zh">X档案 040-041期(重播)</title>
+  </programme>
+  <programme start="20211205070200 +0800" stop="20211205073700 +0800" channel="zszhpd">
+    <title lang="zh">传奇 286期</title>
+  </programme>
+  <programme start="20211205073700 +0800" stop="20211205081100 +0800" channel="zszhpd">
+    <title lang="zh">奇趣大自然 283期</title>
+  </programme>
+  <programme start="20211205081100 +0800" stop="20211205103800 +0800" channel="zszhpd">
+    <title lang="zh">幸福触手可及 10-12集(重播)</title>
+  </programme>
+  <programme start="20211205103800 +0800" stop="20211205121600 +0800" channel="zszhpd">
+    <title lang="zh">奔腾年代 17-18集(重播)</title>
+  </programme>
+  <programme start="20211205121600 +0800" stop="20211205131000 +0800" channel="zszhpd">
+    <title lang="zh">外来媳妇本地郎 “从天而降的孩子”(上,下)</title>
+  </programme>
+  <programme start="20211205131000 +0800" stop="20211205134300 +0800" channel="zszhpd">
+    <title lang="zh">传奇 287期</title>
+  </programme>
+  <programme start="20211205134300 +0800" stop="20211205142100 +0800" channel="zszhpd">
+    <title lang="zh">奇趣大自然 284期</title>
+  </programme>
+  <programme start="20211205142100 +0800" stop="20211205165300 +0800" channel="zszhpd">
+    <title lang="zh">隐秘而伟大 3-5集(重播)</title>
+  </programme>
+  <programme start="20211205165300 +0800" stop="20211205171800 +0800" channel="zszhpd">
+    <title lang="zh">你好卟卟第四季 11-14集(重播)</title>
+  </programme>
+  <programme start="20211205171800 +0800" stop="20211205173400 +0800" channel="zszhpd">
+    <title lang="zh">探探猫奇妙世界2 12集(重播)</title>
+  </programme>
+  <programme start="20211205173400 +0800" stop="20211205182700 +0800" channel="zszhpd">
+    <title lang="zh">外来媳妇本地郎 “非一般用电”(上,下)</title>
+  </programme>
+  <programme start="20211205182700 +0800" stop="20211205190000 +0800" channel="zszhpd">
+    <title lang="zh">智造美好生活 1集(3,4) (首播)</title>
+  </programme>
+  <programme start="20211205190000 +0800" stop="20211205193000 +0800" channel="zszhpd">
+    <title lang="zh">转播CCTV-1新闻联播</title>
+  </programme>
+  <programme start="20211205193000 +0800" stop="20211205233800 +0800" channel="zszhpd">
+    <title lang="zh">光荣时代 16-20集(首播)</title>
+  </programme>
   <programme start="20211130020600 +0800" stop="20211130070000 +0800" channel="efa3b46b">
     <title lang="zh">开心短剧</title>
   </programme>
