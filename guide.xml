@@ -12173,8 +12173,6 @@
   <programme start="20211215232500 -0800" stop="20211215235500 -0800" channel="ETNEW ETTV News">
     <title lang="en">ETTV City News</title>
   </programme>
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="192e717d">
     <display-name lang="zh">江门公共</display-name>
     <url>http://www.tvsou.com</url>
@@ -24135,8 +24133,6 @@
   <programme start="20211222225000 +0800" stop="20211223004000 +0800" channel="天映經典頻道 (203)">
     <title lang="tc">鱷魚河</title>
   </programme>
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="gdggpd">
     <display-name lang="zh">广东公共频道</display-name>
     <url>http://www.tvmao.com</url>
@@ -33663,8 +33659,6 @@
   <programme start="20211221224500 +0800" stop="20211221234000 +0800" channel="6e78c8ef">
     <title lang="zh">E剧场:少林寺传奇2-16</title>
   </programme>
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="efa3b46b">
     <display-name lang="zh">广东综艺4k</display-name>
     <url>http://www.m.tvsou.com</url>
