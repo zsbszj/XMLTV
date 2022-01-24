@@ -7141,8 +7141,6 @@
     <title lang="en">读懂恶之心的人们 / THROUGH THE DARKNESS</title>
     <desc lang="en">加入了韩国警察局犯罪行动分析组为首位心理侧写师后, 男主角便与团队共同追捕极恶的连环杀手。.(n)</desc>
   </programme>
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="gdggpd">
     <display-name lang="zh">广东公共频道</display-name>
     <url>http://www.tvmao.com</url>
@@ -13547,8 +13545,6 @@
     <title lang="en">食尚玩家热血48小时</title>
     <desc lang="en">(PG) 威廉与风田带领观众《食尚玩家－热血48小时》，两人想品尝美食就得上山下海，在时间内走完制作单位排的行程。.(n)</desc>
   </programme>
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="192e717d">
     <display-name lang="zh">江门公共</display-name>
     <url>http://www.tvmao.com</url>
@@ -17220,8 +17216,6 @@
   <programme start="20220130225000 +0800" stop="20220131002500 +0800" channel="天映經典頻道 (203)">
     <title lang="tc">一樂也</title>
   </programme>
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="彩虹頻道">
     <display-name lang="zh">彩虹頻道</display-name>
     <url>http://www.tbc.net.tw</url>
@@ -28011,8 +28005,6 @@
   <programme start="20220123231500 -0800" stop="20220123235500 -0800" channel="ETNEW ETTV News">
     <title lang="en">ETTV City News</title>
   </programme>
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="hnms">
     <display-name lang="zh">河南电民生</display-name>
     <url>http://www.tvmao.com</url>
@@ -29726,4 +29718,116 @@
   <programme start="20220129113000 +0800" stop="20220129114500 +0800" channel="gzzhpd">
     <title lang="zh">家装专题</title>
   </programme>
+  <channel id="Great Wall Elite">
+    <display-name lang="fr">Great Wall Elite</display-name>
+    <url>http://www.tv.sfr.fr</url>
+  </channel>
+  <programme start="20220124000000 +0000" stop="20220124060000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220124060000 +0000" stop="20220124090000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220124090000 +0000" stop="20220124120000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220124120000 +0000" stop="20220124150000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220124150000 +0000" stop="20220124180000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220124180000 +0000" stop="20220124210000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220124210000 +0000" stop="20220125000000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220125000000 +0000" stop="20220125060000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220125060000 +0000" stop="20220125090000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220125090000 +0000" stop="20220125120000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220125120000 +0000" stop="20220125150000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220125150000 +0000" stop="20220125180000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220125180000 +0000" stop="20220125210000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220125210000 +0000" stop="20220126000000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220126000000 +0000" stop="20220126060000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220126060000 +0000" stop="20220126090000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220126090000 +0000" stop="20220126120000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220126120000 +0000" stop="20220126150000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220126150000 +0000" stop="20220126180000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220126180000 +0000" stop="20220126210000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220126210000 +0000" stop="20220127000000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220127000000 +0000" stop="20220127060000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220127060000 +0000" stop="20220127090000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220127090000 +0000" stop="20220127120000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220127120000 +0000" stop="20220127150000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220127150000 +0000" stop="20220127180000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220127180000 +0000" stop="20220127210000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220127210000 +0000" stop="20220128000000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220128000000 +0000" stop="20220128060000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220128060000 +0000" stop="20220128090000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220128090000 +0000" stop="20220128120000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220128120000 +0000" stop="20220128150000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220128150000 +0000" stop="20220128180000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220128180000 +0000" stop="20220128210000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220128210000 +0000" stop="20220129000000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme>
+  <programme start="20220129000000 +0000" stop="20220129060000 +0000" channel="Great Wall Elite">
+    <title lang="fr">Une chaîne généraliste qui diffuse ses émissions en dialecte du Minnan</title>
+  </programme> 
 </tv>
